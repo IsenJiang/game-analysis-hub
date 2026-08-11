@@ -1,1 +1,46 @@
+# 行业资讯订阅源清单
+# 每个源: name（显示名）/ url（RSS地址）/ category（标签，可选）
+#
+# ⚠️ 重要：以下 URL 是基于公开信息整理的常见候选地址，部分网站会随改版变更 RSS 路径，
+# 首次使用前请逐个在浏览器打开验证（能看到 XML 内容即有效）。失效的源脚本会自动跳过
+# 并在日志里打印 [WARN]，不会导致整个任务失败，但建议定期检查修正。
+#
+# 如何找到一个网站的 RSS 地址：
+#   1. 常见规律：域名 + /feed 、 /rss 、 /rss.xml 、 /atom.xml
+#   2. Substack 类博客几乎都是 域名 + /feed
+#   3. 在浏览器地址栏输入候选地址，能看到大段 XML 就是对的
+#   4. 也可以用 https://www.rssboard.org 或直接搜索 "网站名 RSS feed"
 
+feeds:
+  - name: "Deconstructor of Fun"
+    url: "https://www.deconstructoroffun.com/blog?format=rss"
+    category: "F2P/工作室洞察"
+
+  - name: "GameDiscoverCo (Simon Carless)"
+    url: "https://newsletter.gamediscover.co/feed"
+    category: "发行/Steam发现算法"
+
+  - name: "Naavik"
+    url: "https://naavik.co/feed"
+    category: "行业分析/并购"
+
+  - name: "Mobile Dev Memo (Eric Seufert)"
+    url: "https://mobiledevmemo.com/feed/"
+    category: "买量/隐私/移动变现"
+
+  - name: "How To Market A Game (Chris Zukowski)"
+    url: "https://howtomarketagame.com/feed/"
+    category: "Steam营销"
+
+  - name: "Pocket Gamer.biz"
+    url: "https://www.pocketgamer.biz/rss/"
+    category: "行业新闻"
+
+  - name: "GameRefinery Blog"
+    url: "https://www.gamerefinery.com/blog/rss.xml"
+    category: "数据/市场洞察"
+
+  # 你可以按自己关注的方向继续加，比如：
+  # - name: "Newzoo Insights"
+  #   url: "https://newzoo.com/insights/rss"
+  #   category: "市场研究"
