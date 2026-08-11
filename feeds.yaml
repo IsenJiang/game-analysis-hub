@@ -1,14 +1,15 @@
 # 行业资讯订阅源清单
-# 每个源: name（显示名）/ url（RSS地址）/ region（地区）/ category（内容类型）
+# 每个源: name（显示名）/ url（RSS地址）/ region（地区）/ category（内容类型，作为兜底分类）
 #
-# region 取值: cn（中国）/ jp_kr（日韩）/ west（欧美）
-# category 取值: news（行业新闻，客观事件/数据/财报类）
-#              hot（热点资讯，观点/趋势/社区热议类）
-#              review（游戏评论，具体作品的评测/拆解）
+# region 取值: cn（中国）/ kr（韩国）/ west（欧美）
+# category 取值: news（行业新闻）/ hot（热点资讯）/ review（游戏评论）
+#   注意：category 只是"这个信源没有命中任何关键词规则时"的兜底分类，
+#   实际每篇文章的分类由脚本里的关键词规则动态判断，参见 build_industry_radar.py。
 #
 # ⚠️ 重要：以下 URL 是基于公开信息整理的常见候选地址，部分网站会随改版变更 RSS 路径，
 # 首次使用前请逐个在浏览器打开验证（能看到 XML 内容即有效）。标了 "# 待验证" 的条目
-# 尤其需要确认。失效的源脚本会自动跳过并打印 [WARN]，不会导致整个任务失败。
+# 尤其需要确认，韩国几个源找到的资料比较旧，改版概率较高。失效的源脚本会自动跳过
+# 并打印 [WARN]，不会导致整个任务失败。
 
 feeds:
   # ---------------- 中国 ----------------
@@ -38,25 +39,30 @@ feeds:
     category: "review"
 
   - name: "游研社"
-    url: "https://www.yystv.cn/rss/feed"  # 待验证：曾有报告指出该地址不稳定
+    url: "https://www.yystv.cn/rss/feed"  # 待验证
     region: "cn"
     category: "hot"
 
-  # ---------------- 日韩 ----------------
-  - name: "4Gamer（注目新闻）"
-    url: "https://www.4gamer.net/rss/news_topics.xml"
-    region: "jp_kr"
+  # ---------------- 韩国 ----------------
+  - name: "인벤 Inven"
+    url: "http://webzine.inven.co.kr/news/rss.php"  # 待验证，找到的资料较旧，路径可能已变
+    region: "kr"
     category: "news"
 
-  - name: "4Gamer（全站更新）"
-    url: "https://www.4gamer.net/rss/index.xml"
-    region: "jp_kr"
+  - name: "게임메카 Gamemeca"
+    url: "https://www.gamemeca.com/rss.php?bo_table=news"  # 待验证
+    region: "kr"
+    category: "news"
+
+  - name: "디스이즈게임 ThisIsGame"
+    url: "https://www.thisisgame.com/rss/allArticle.xml"  # 待验证
+    region: "kr"
     category: "hot"
 
-  - name: "ThisIsGame（디스이즈게임）"
-    url: "https://www.thisisgame.com/rss/allArticle.xml"  # 待验证
-    region: "jp_kr"
-    category: "news"
+  - name: "루리웹 Ruliweb"
+    url: "https://bbs.ruliweb.com/news/rss"  # 待验证
+    region: "kr"
+    category: "hot"
 
   # ---------------- 欧美 ----------------
   - name: "Deconstructor of Fun"
@@ -108,5 +114,10 @@ feeds:
     url: "https://www.pcgamer.com/rss/"  # 待验证
     region: "west"
     category: "review"
+
+  - name: "GamesIndustry.biz"
+    url: "https://www.gamesindustry.biz/feed"
+    region: "west"
+    category: "news"
 
   # 继续按需添加，比如你自己关注的具体游戏官方博客/公告页
