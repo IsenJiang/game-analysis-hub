@@ -1,8 +1,5 @@
 * [<span class="ph ph-compass"></span> 首页](README.md)
 
-* **<span class="ph ph-magnifying-glass"></span> 游戏分析**
-  * [<span class="ph ph-file-text"></span> 全局深度拆解](reports/deep-deconstruction-template.md)
-
 * **<span class="ph ph-chart-line-up"></span> 竞品与市场监测**
   * [<span class="ph ph-file-text"></span> 竞品对比与市场跟踪](reports/market-monitor-template.md)
 
