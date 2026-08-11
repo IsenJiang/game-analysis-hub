@@ -17,3 +17,6 @@
   * [<span class="ph ph-file-text"></span> 核心战斗与系统机制](reports/combat-mechanics-template.md)
   * [<span class="ph ph-file-text"></span> 商业化与变现模型](reports/monetization-model-template.md)
   * [<span class="ph ph-file-text"></span> 长线留存与 Endgame 系统](reports/endgame-retention-template.md)
+  
+* **<span class="ph ph-broadcast"></span> 行业动态**
+  * [<span class="ph ph-file-text"></span> 行业资讯雷达](reports/industry-radar.md)
