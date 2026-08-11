@@ -1,46 +1,112 @@
 # 行业资讯订阅源清单
-# 每个源: name（显示名）/ url（RSS地址）/ category（标签，可选）
+# 每个源: name（显示名）/ url（RSS地址）/ region（地区）/ category（内容类型）
+#
+# region 取值: cn（中国）/ jp_kr（日韩）/ west（欧美）
+# category 取值: news（行业新闻，客观事件/数据/财报类）
+#              hot（热点资讯，观点/趋势/社区热议类）
+#              review（游戏评论，具体作品的评测/拆解）
 #
 # ⚠️ 重要：以下 URL 是基于公开信息整理的常见候选地址，部分网站会随改版变更 RSS 路径，
-# 首次使用前请逐个在浏览器打开验证（能看到 XML 内容即有效）。失效的源脚本会自动跳过
-# 并在日志里打印 [WARN]，不会导致整个任务失败，但建议定期检查修正。
-#
-# 如何找到一个网站的 RSS 地址：
-#   1. 常见规律：域名 + /feed 、 /rss 、 /rss.xml 、 /atom.xml
-#   2. Substack 类博客几乎都是 域名 + /feed
-#   3. 在浏览器地址栏输入候选地址，能看到大段 XML 就是对的
-#   4. 也可以用 https://www.rssboard.org 或直接搜索 "网站名 RSS feed"
+# 首次使用前请逐个在浏览器打开验证（能看到 XML 内容即有效）。标了 "# 待验证" 的条目
+# 尤其需要确认。失效的源脚本会自动跳过并打印 [WARN]，不会导致整个任务失败。
 
 feeds:
+  # ---------------- 中国 ----------------
+  - name: "游戏葡萄"
+    url: "http://youxiputao.com/feed"
+    region: "cn"
+    category: "news"
+
+  - name: "GameLook"
+    url: "http://www.gamelook.com.cn/feed"
+    region: "cn"
+    category: "news"
+
+  - name: "游戏邦"
+    url: "http://gamerboom.com/feed"
+    region: "cn"
+    category: "hot"
+
+  - name: "拆盒网"
+    url: "http://www.chaihezi.com/feed/"
+    region: "cn"
+    category: "review"
+
+  - name: "游戏时光头条"
+    url: "http://www.vgtime.com/rss.jhtml"
+    region: "cn"
+    category: "review"
+
+  - name: "游研社"
+    url: "https://www.yystv.cn/rss/feed"  # 待验证：曾有报告指出该地址不稳定
+    region: "cn"
+    category: "hot"
+
+  # ---------------- 日韩 ----------------
+  - name: "4Gamer（注目新闻）"
+    url: "https://www.4gamer.net/rss/news_topics.xml"
+    region: "jp_kr"
+    category: "news"
+
+  - name: "4Gamer（全站更新）"
+    url: "https://www.4gamer.net/rss/index.xml"
+    region: "jp_kr"
+    category: "hot"
+
+  - name: "ThisIsGame（디스이즈게임）"
+    url: "https://www.thisisgame.com/rss/allArticle.xml"  # 待验证
+    region: "jp_kr"
+    category: "news"
+
+  # ---------------- 欧美 ----------------
   - name: "Deconstructor of Fun"
     url: "https://www.deconstructoroffun.com/blog?format=rss"
-    category: "F2P/工作室洞察"
+    region: "west"
+    category: "hot"
 
   - name: "GameDiscoverCo (Simon Carless)"
     url: "https://newsletter.gamediscover.co/feed"
-    category: "发行/Steam发现算法"
+    region: "west"
+    category: "news"
 
   - name: "Naavik"
     url: "https://naavik.co/feed"
-    category: "行业分析/并购"
+    region: "west"
+    category: "hot"
 
   - name: "Mobile Dev Memo (Eric Seufert)"
     url: "https://mobiledevmemo.com/feed/"
-    category: "买量/隐私/移动变现"
+    region: "west"
+    category: "hot"
 
   - name: "How To Market A Game (Chris Zukowski)"
     url: "https://howtomarketagame.com/feed/"
-    category: "Steam营销"
+    region: "west"
+    category: "hot"
 
   - name: "Pocket Gamer.biz"
     url: "https://www.pocketgamer.biz/rss/"
-    category: "行业新闻"
+    region: "west"
+    category: "news"
 
   - name: "GameRefinery Blog"
     url: "https://www.gamerefinery.com/blog/rss.xml"
-    category: "数据/市场洞察"
+    region: "west"
+    category: "news"
 
-  # 你可以按自己关注的方向继续加，比如：
-  # - name: "Newzoo Insights"
-  #   url: "https://newzoo.com/insights/rss"
-  #   category: "市场研究"
+  - name: "Rock Paper Shotgun"
+    url: "https://www.rockpapershotgun.com/feed"  # 待验证
+    region: "west"
+    category: "review"
+
+  - name: "Eurogamer"
+    url: "https://www.eurogamer.net/feed"  # 待验证
+    region: "west"
+    category: "review"
+
+  - name: "PC Gamer"
+    url: "https://www.pcgamer.com/rss/"  # 待验证
+    region: "west"
+    category: "review"
+
+  # 继续按需添加，比如你自己关注的具体游戏官方博客/公告页
