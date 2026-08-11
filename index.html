@@ -1,152 +1,117 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-  <meta charset="UTF-8">
-  <title>游戏分析与数据观察站</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<style>
+  :root {
+    --theme-color: #4f46e5; /* 主色调：靛蓝 */
+  }
+
+  /* 全局清除所有下划线 */
+  a, a:hover, a:focus, a:active {
+    text-decoration: none !important;
+  }
+
+  /* 1. 全局字号与字体 */
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    font-size: 14px;
+    color: #334155;
+    line-height: 1.6;
+  }
+
+  /* 2. 标题层级 */
+  .markdown-section h1 { font-size: 1.5rem; font-weight: 700; color: #0f172a; margin-bottom: 1.2rem; }
+  .markdown-section h2 { font-size: 1.2rem; font-weight: 600; color: #1e293b; border-bottom: 1px solid #f1f5f9; padding-bottom: 6px; margin-top: 1.8rem; }
+  .markdown-section h3 { font-size: 1.02rem; font-weight: 600; color: #334155; margin-top: 1.2rem; }
+
+  /* 3. 侧边栏及链接圆角框交互 */
+  .sidebar {
+    border-right: 1px solid #f1f5f9;
+    background-color: #fafafa;
+  }
   
-  <!-- Docsify 基础主题 -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-  
-  <!-- 高级极简与圆角设计样式表 -->
-  <style>
-    :root {
-      --theme-color: #4f46e5; /* 优雅的靛蓝色 */
-    }
+  /* 侧边栏默认状态 */
+  .sidebar ul li a {
+    font-size: 13px;
+    color: #64748b;
+    border-radius: 6px !important;
+    padding: 6px 10px !important;
+    margin: 2px 0;
+    display: block;
+    transition: all 0.15s ease-in-out;
+    border: 1px solid transparent; /* 预留边框防抖动 */
+  }
 
-    /* 1. 全局字号紧凑化与字体优化 */
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-      font-size: 14px; /* 正文字号缩小至 14px */
-      color: #334155;
-      line-height: 1.6;
-    }
+  /* 鼠标悬停（Hover）：浅灰圆角框 */
+  .sidebar ul li a:hover {
+    color: #0f172a !important;
+    background-color: #f1f5f9 !important;
+    border-color: #e2e8f0 !important;
+  }
 
-    /* 2. 标题字号调小，强化层级 */
-    .markdown-section h1 { font-size: 1.5rem; font-weight: 700; color: #0f172a; margin-bottom: 1.2rem; }
-    .markdown-section h2 { font-size: 1.2rem; font-weight: 600; color: #1e293b; border-bottom: 1px solid #f1f5f9; padding-bottom: 6px; margin-top: 1.8rem; }
-    .markdown-section h3 { font-size: 1.02rem; font-weight: 600; color: #334155; margin-top: 1.2rem; }
-    .markdown-section p, .markdown-section ul, .markdown-section ol { font-size: 14px; }
+  /* 选中/激活（Active）：浅蓝紫高亮圆角框 */
+  .sidebar ul li.active > a {
+    color: var(--theme-color) !important;
+    font-weight: 600;
+    background-color: #eef2ff !important;
+    border-color: #c7d2fe !important;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03);
+  }
 
-    /* 3. 全局组件圆角化 (Rounded Design) */
-    
-    /* 搜索框圆角 */
-    .sidebar .search input {
-      border-radius: 8px !important;
-      border: 1px solid #e2e8f0 !important;
-      padding: 8px 12px !important;
-      font-size: 13px !important;
-      background-color: #f8fafc !important;
-      transition: all 0.2s ease;
-    }
-    .sidebar .search input:focus {
-      background-color: #ffffff !important;
-      border-color: var(--theme-color) !important;
-      box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.1) !important;
-    }
+  /* 消除 Docsify 默认激活时的右侧竖线/下划线伪元素 */
+  .sidebar ul li.active > a::after,
+  .sidebar ul li a::after {
+    display: none !important;
+  }
 
-    /* 代码块卡片圆角 */
-    .markdown-section pre {
-      border-radius: 10px !important;
-      background-color: #0f172a !important;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-      padding: 12px 16px !important;
-    }
-    .markdown-section code {
-      font-size: 13px !important;
-      border-radius: 4px;
-    }
+  /* 4. 正文中的链接：无下划线，改用淡色高亮框 */
+  .markdown-section a {
+    color: var(--theme-color);
+    padding: 2px 6px;
+    border-radius: 4px;
+    transition: all 0.15s ease;
+  }
+  .markdown-section a:hover {
+    background-color: #eef2ff;
+    color: var(--theme-color);
+  }
 
-    /* 引用块 (Callout) 圆角 */
-    .markdown-section blockquote {
-      border-left: 3px solid var(--theme-color);
-      background-color: #f8fafc;
-      border-radius: 0 8px 8px 0;
-      padding: 10px 14px;
-      margin: 1em 0;
-      color: #475569;
-      font-size: 13.5px;
-    }
+  /* 5. 搜索框、代码块、表格、图片圆角 */
+  .sidebar .search input {
+    border-radius: 8px !important;
+    border: 1px solid #e2e8f0 !important;
+    padding: 8px 12px !important;
+    font-size: 13px !important;
+    background-color: #ffffff !important;
+  }
+  .sidebar .search input:focus {
+    border-color: var(--theme-color) !important;
+    box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.1) !important;
+  }
 
-    /* 表格圆角与边框拆分 */
-    .markdown-section table {
-      display: table;
-      width: 100%;
-      border-collapse: separate;
-      border-spacing: 0;
-      border-radius: 10px;
-      overflow: hidden;
-      border: 1px solid #e2e8f0;
-      font-size: 13px;
-      margin: 1.2em 0;
-    }
-    .markdown-section th {
-      background-color: #f1f5f9;
-      color: #1e293b;
-      font-weight: 600;
-      border-bottom: 1px solid #e2e8f0;
-      padding: 8px 12px;
-    }
-    .markdown-section td {
-      border-bottom: 1px solid #f1f5f9;
-      padding: 8px 12px;
-    }
-    .markdown-section tr:last-child td {
-      border-bottom: none;
-    }
+  .markdown-section pre {
+    border-radius: 10px !important;
+    background-color: #0f172a !important;
+    padding: 12px 16px !important;
+  }
 
-    /* 截图/图片圆角与微阴影 */
-    .markdown-section img {
-      border-radius: 10px;
-      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
-      border: 1px solid #f1f5f9;
-    }
+  .markdown-section blockquote {
+    border-left: 3px solid var(--theme-color);
+    background-color: #f8fafc;
+    border-radius: 0 8px 8px 0;
+    padding: 10px 14px;
+  }
 
-    /* 侧边栏精致化 */
-    .sidebar {
-      border-right: 1px solid #f1f5f9;
-      background-color: #fafafa;
-    }
-    .sidebar ul li a {
-      font-size: 13px;
-      color: #475569;
-      border-radius: 6px;
-      padding: 5px 8px;
-      transition: all 0.15s ease;
-    }
-    .sidebar ul li a:hover {
-      color: var(--theme-color);
-      background-color: #f1f5f9;
-    }
-    .sidebar ul li.active > a {
-      color: var(--theme-color) !important;
-      font-weight: 600;
-      background-color: #e0e7ff;
-    }
-  </style>
-</head>
-<body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      name: '🎮 游戏分析观察站',
-      repo: '',
-      loadSidebar: true,
-      subMaxLevel: 3,
-      search: {
-        placeholder: '搜索分析报告...',
-        noData: '未找到相关内容'
-      }
-    }
-  </script>
-  <!-- Docsify 核心与插件 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
-  <!-- Mermaid 流程图原生支持 -->
-  <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-mermaid@2/dist/docsify-mermaid.js"></script>
-  <script>mermaid.initialize({ startOnLoad: true });</script>
-</body>
-</html>
+  .markdown-section table {
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid #e2e8f0;
+    font-size: 13px;
+  }
+  .markdown-section th { background-color: #f1f5f9; padding: 8px 12px; }
+  .markdown-section td { border-bottom: 1px solid #f1f5f9; padding: 8px 12px; }
+
+  .markdown-section img {
+    border-radius: 10px;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+  }
+</style>
