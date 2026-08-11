@@ -1,4 +1,7 @@
 * [<span class="ph ph-compass"></span> 首页](README.md)
+  
+* **<span class="ph ph-lightbulb"></span> 深度拆解**
+  * [<span class="ph ph-file-text"></span> 玩法与经济框架](reports/insight-template.md)
 
 * **<span class="ph ph-chart-line-up"></span> 竞品与市场监测**
   * [<span class="ph ph-file-text"></span> 竞品对比与市场跟踪](reports/market-monitor-template.md)
@@ -9,5 +12,3 @@
 * **<span class="ph ph-flag-banner"></span> 节点事件**
   * [<span class="ph ph-file-text"></span> 节点与发售复盘](reports/event-template.md)
 
-* **<span class="ph ph-lightbulb"></span> 深度拆解**
-  * [<span class="ph ph-file-text"></span> 玩法与经济框架](reports/insight-template.md)
