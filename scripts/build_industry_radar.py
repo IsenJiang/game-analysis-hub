@@ -5,7 +5,9 @@ build_industry_radar.py
 抓取 feeds.yaml 中列出的行业信源，按「内容类型 × 地区」两个维度分组，
 生成 docsify 页面 reports/industry-radar.md。
 
-分类逻辑（v2 新增）：
+地区维度：cn（中国）/ kr（韩国）/ west（欧美）
+
+分类逻辑：
 - 优先用关键词规则判断每一篇文章属于 news / hot / review 中的哪一类
   （检查标题 + 摘要文本，命中即归类，不需要任何付费 API）；
 - 如果一篇都没命中，退回到该信源在 feeds.yaml 里配置的默认 category。
@@ -41,10 +43,10 @@ CATEGORY_LABELS = {
     "review": "🎮 游戏评论",
 }
 
-REGION_ORDER = ["cn", "jp_kr", "west"]
+REGION_ORDER = ["cn", "kr", "west"]
 REGION_LABELS = {
     "cn": "🇨🇳 中国",
-    "jp_kr": "🇯🇵🇰🇷 日韩",
+    "kr": "🇰🇷 韩国",
     "west": "🌍 欧美",
 }
 
@@ -54,7 +56,7 @@ REGION_LABELS = {
 # news（行业新闻）其次，因为"发布/融资/财报"这类词通常指向客观事件；
 # 都没命中的，最后交给 hot 或者信源默认分类兜底。
 #
-# 覆盖中文 / 英文 / 日文 / 韩文，方便匹配三个地区的信源。
+# 覆盖中文 / 英文 / 韩文，方便匹配三个地区的信源。
 # 想调整分类效果，直接在这几个列表里增删关键词即可，不需要动其他逻辑。
 # ---------------------------------------------------------------------------
 KEYWORD_RULES = {
@@ -63,8 +65,6 @@ KEYWORD_RULES = {
         "评测", "测评", "体验测评", "上手体验", "评分", "打分",
         # 英文
         "review", "hands-on", "impressions", "we played", "verdict",
-        # 日文
-        "レビュー", "評価", "プレイ感想",
         # 韩文
         "리뷰", "평가", "체험기",
     ],
@@ -76,8 +76,6 @@ KEYWORD_RULES = {
         "acquisition", "acquires", "earnings", "revenue", "layoffs",
         "funding", "announces", "launches", "launch date", "release date",
         "ipo", "merger",
-        # 日文
-        "リリース", "発表", "決算", "買収", "資金調達",
         # 韩文
         "발매", "발표", "인수", "실적", "출시",
     ],
@@ -87,8 +85,6 @@ KEYWORD_RULES = {
         # 英文
         "controversy", "backlash", "viral", "trending", "opinion",
         "why is", "explained",
-        # 日文
-        "話題", "炎上", "考察",
         # 韩文
         "논란", "화제", "떡밥",
     ],
@@ -136,6 +132,11 @@ def entry_date(entry):
 def fetch_new_items(feeds, existing_links, cutoff):
     new_items = []
     for src in feeds:
+        region = src.get("region", "west")
+        if region not in REGION_ORDER:
+            print(f"[WARN] 未知 region '{region}'，跳过信源: {src['name']}")
+            continue
+
         try:
             parsed = feedparser.parse(src["url"])
         except Exception as e:
@@ -164,7 +165,7 @@ def fetch_new_items(feeds, existing_links, cutoff):
                 "link": link,
                 "title": title,
                 "source": src["name"],
-                "region": src.get("region", "west"),
+                "region": region,
                 "category": category,
                 "date": date.strftime("%Y-%m-%d") if date else "未知日期",
                 "date_sort": date.isoformat() if date else "0000",
