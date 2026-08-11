@@ -5,6 +5,11 @@ build_industry_radar.py
 抓取 feeds.yaml 中列出的行业信源，按「内容类型 × 地区」两个维度分组，
 生成 docsify 页面 reports/industry-radar.md。
 
+分类逻辑（v2 新增）：
+- 优先用关键词规则判断每一篇文章属于 news / hot / review 中的哪一类
+  （检查标题 + 摘要文本，命中即归类，不需要任何付费 API）；
+- 如果一篇都没命中，退回到该信源在 feeds.yaml 里配置的默认 category。
+
 设计原则（合规 & 可维护）：
 - 只保留标题 / 来源 / 日期 / 原文链接，不转载正文，规避版权问题；
 - 用 .radar_state.json 完整保存已抓到的条目（含分类信息），每次运行时
@@ -43,6 +48,61 @@ REGION_LABELS = {
     "west": "🌍 欧美",
 }
 
+# ---------------------------------------------------------------------------
+# 关键词分类规则：按优先级从上到下检查，命中第一个就用哪个分类。
+# review（游戏评论）优先级最高，因为"评测/上手"这类词最不容易和别的类目混淆；
+# news（行业新闻）其次，因为"发布/融资/财报"这类词通常指向客观事件；
+# 都没命中的，最后交给 hot 或者信源默认分类兜底。
+#
+# 覆盖中文 / 英文 / 日文 / 韩文，方便匹配三个地区的信源。
+# 想调整分类效果，直接在这几个列表里增删关键词即可，不需要动其他逻辑。
+# ---------------------------------------------------------------------------
+KEYWORD_RULES = {
+    "review": [
+        # 中文
+        "评测", "测评", "体验测评", "上手体验", "评分", "打分",
+        # 英文
+        "review", "hands-on", "impressions", "we played", "verdict",
+        # 日文
+        "レビュー", "評価", "プレイ感想",
+        # 韩文
+        "리뷰", "평가", "체험기",
+    ],
+    "news": [
+        # 中文
+        "发布", "上线", "公告", "财报", "季度营收", "收购", "融资", "裁员",
+        "IPO", "上市", "股价", "并购",
+        # 英文
+        "acquisition", "acquires", "earnings", "revenue", "layoffs",
+        "funding", "announces", "launches", "launch date", "release date",
+        "ipo", "merger",
+        # 日文
+        "リリース", "発表", "決算", "買収", "資金調達",
+        # 韩文
+        "발매", "발표", "인수", "실적", "출시",
+    ],
+    "hot": [
+        # 中文
+        "热议", "爆火", "吐槽", "争议", "复盘", "现象级", "破圈",
+        # 英文
+        "controversy", "backlash", "viral", "trending", "opinion",
+        "why is", "explained",
+        # 日文
+        "話題", "炎上", "考察",
+        # 韩文
+        "논란", "화제", "떡밥",
+    ],
+}
+
+
+def classify_item(title, summary, fallback_category):
+    text = f"{title} {summary}".lower()
+    for category in ("review", "news", "hot"):
+        for kw in KEYWORD_RULES[category]:
+            if kw.lower() in text:
+                return category
+    return fallback_category
+
 
 def load_feeds():
     with open(FEEDS_FILE, "r", encoding="utf-8") as f:
@@ -54,8 +114,7 @@ def load_state():
     if os.path.exists(STATE_FILE):
         with open(STATE_FILE, "r", encoding="utf-8") as f:
             data = json.load(f)
-            # 兼容旧版本 state 文件（只存了链接列表的情况）
-            if isinstance(data, list):
+            if isinstance(data, list):  # 兼容更早期的 state 格式
                 return {}
             return {item["link"]: item for item in data.get("items", [])}
     return {}
@@ -96,12 +155,17 @@ def fetch_new_items(feeds, existing_links, cutoff):
             if date and date < cutoff:
                 continue
 
+            title = entry.get("title", "无标题").strip()
+            summary = entry.get("summary", "")
+            fallback_category = src.get("category", "news")
+            category = classify_item(title, summary, fallback_category)
+
             new_items.append({
                 "link": link,
-                "title": entry.get("title", "无标题").strip(),
+                "title": title,
                 "source": src["name"],
                 "region": src.get("region", "west"),
-                "category": src.get("category", "news"),
+                "category": category,
                 "date": date.strftime("%Y-%m-%d") if date else "未知日期",
                 "date_sort": date.isoformat() if date else "0000",
             })
@@ -117,6 +181,7 @@ def render_page(items_by_link):
         "",
         f"> 自动抓取，最后更新：{datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}",
         "> 仅收录标题、来源与链接，不转载正文，请点击标题跳转阅读原文。",
+        "> 分类由关键词规则自动判断，可能存在误判，仅供参考。",
         "",
     ]
 
