@@ -1,33 +1,67 @@
-name: Update Industry Radar
+# 📡 行业资讯雷达 (Industry Radar)
 
-on:
-  schedule:
-    - cron: "0 1 * * *"   # 每天 UTC 01:00（北京时间 09:00）自动运行
-  workflow_dispatch: {}    # 允许在 GitHub Actions 页面手动点击触发
+> 自动抓取，最后更新：2026-08-11 08:16 UTC
+> 仅收录标题、来源与链接，不转载正文，请点击标题跳转阅读原文。
 
-permissions:
-  contents: write   # 需要写权限才能把生成的文件 commit 回仓库
-
-jobs:
-  build-radar:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Run radar script
-        run: python scripts/build_industry_radar.py
-
-      - name: Commit changes
-        run: |
-          git config user.name "industry-radar-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add reports/industry-radar.md .radar_state.json
-          git diff --cached --quiet || git commit -m "chore: update industry radar $(date -u +'%Y-%m-%d')"
-          git push
+<!-- RADAR_ITEMS_START -->
+- **2026-08-10** · [A new Silk Road for video games and interactive entertainment](https://www.pocketgamer.biz/a-new-silk-road-for-video-games-and-interactive-entertainment/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-10** · [Copa Fantasy finalising $750,000 seed round to accelerate growth](https://www.pocketgamer.biz/copa-fantasy-is-finalising-a-750000-seed-round-to-accelerate-growth/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-10** · [German trade body calls for stronger political support for Europe's games industry](https://www.pocketgamer.biz/gamescom-2026-calls-for-stronger-political-support-for-germanys-games-industry/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-10** · [Former Icelandic minister joins Fenris Creations to lead AI partnerships](https://www.pocketgamer.biz/former-icelandic-minister-joins-fenris-creations-to-lead-ai-partnerships/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-10** · [Max your Gamescom week with Pocket Gamer](https://www.pocketgamer.biz/max-your-gamescom-week-with-pocket-gamer/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-10** · [Bandai Namco sees record Q1 while Digimon achieves highest profit ever](https://www.pocketgamer.biz/bandai-namco-sees-record-q1-while-digimon-achieves-highest-profit-ever/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-10** · [Mobile games make $6.6bn in July as Honor of Kings leads player spending](https://www.pocketgamer.biz/mobile-games-make-66bn-in-july-as-honor-of-kings-leads-player-spending/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-10** · [Why the Best Founders Are Neither American nor European](https://www.deconstructoroffun.com/blog/why-the-best-founders-are-neither-american-nor-european) — *Deconstructor of Fun* `F2P/工作室洞察`
+- **2026-08-10** · [Hot Five: Garena developing Palworld Online, Tripledot acquires Supersonic, and Digimon Up makes $7.9m in two weeks](https://www.pocketgamer.biz/hot-five-garena-developing-palworld-online-tripledot-acquires-supersonic-and-digimon-up-makes-79m-in-two-weeks/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-10** · [Aptoide returns to Google Play after more than a decade](https://www.pocketgamer.biz/aptoide-returns-to-google-play-after-more-than-a-decade/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-09** · [Friendslop: Disrupting the Live-ops Status Quo](https://naavik.co/digest/friendslop-disrupting-the-live-ops-status-quo/) — *Naavik* `行业分析/并购`
+- **2026-08-08** · [ChinaJoy insights, EA finalises sale and our 100th episode! | Week in Mobile Games podcast](https://www.pocketgamer.biz/chinajoy-insights-ea-finalises-sales-and-our-100th-episode-week-in-mobile-games-podcast/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-07** · [Game discovery lessons from 30 years (!) in the biz](https://newsletter.gamediscover.co/p/game-discovery-lessons-from-30-years) — *GameDiscoverCo (Simon Carless)* `发行/Steam发现算法`
+- **2026-08-07** · [HandyGames rebrands to THQ Nordic Mobile](https://www.pocketgamer.biz/handygames-rebrands-to-thq-nordic-mobile/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-07** · [New release roundup: Dawnfolk, My Hero Academia United Survival, Madden NFL 27 Arcade Edition, and more](https://www.pocketgamer.biz/new-release-roundup-dawnfolk-my-hero-academia-united-survival-madden-nfl-27-arcade-edition-and-more/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-07** · [New Vietnam mobile studio Momin Games launches](https://www.pocketgamer.biz/new-vietnam-mobile-studio-momin-games-launches/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-07** · [FunVenture secures $1m seed financing](https://www.pocketgamer.biz/funventure-secures-1m-seed-financing/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-07** · [Saudi studio Majestic Mind Games raises $1.45m](https://www.pocketgamer.biz/saudi-studio-majestic-mind-games-raises-145m/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-07** · [Game Makers of Finland's Wilma Ramona Ikäheimonen joins PGC Nordics speaker lineup](https://www.pocketgamer.biz/game-makers-of-finlands-wilma-ramona-ikheimonen-joins-pgc-nordics-speaker-lineup/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-07** · [Five takeaways from ChinaJoy 2026: China goes global, AI the talk of the town, and ads and payments firms take over](https://www.pocketgamer.biz/five-takeaways-from-chinajoy-2026/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-07** · [Nominate the women we should celebrate in this year's Aurora Nordics](https://www.pocketgamer.biz/nominate-the-women-we-should-celebrate-in-this-years-aurora-nordics/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-06** · [Netmarble makes $505.1m in Q2 2026 with The Seven Deadly Sins success](https://www.pocketgamer.biz/netmarble-makes-5051m-in-q2-2026-with-the-seven-deadly-sins-success/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-06** · [Tripledot acquires Supersonic from Unity for $40m](https://www.pocketgamer.biz/tripledot-acquires-supersonic-from-unity-for-40m/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-06** · [Devolver Digital eyes deal to take publisher private](https://www.pocketgamer.biz/devolver-digital-eyes-deal-to-take-publisher-private/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-06** · [Why Apple Arcade offered a "no-compromise" home for EA's Madden NFL 27 Arcade Edition](https://www.pocketgamer.biz/why-apple-arcade-offered-a-no-compromise-home-for-eas-madden-nfl-27-arcade-edition/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-06** · [A tale of two indies: How Triband and Midjiwan outlasted the boom-bust cycle](https://www.pocketgamer.biz/a-tale-of-two-indies-how-triband-and-midjiwan-outlasted-the-boom-bust-cycle/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-06** · [Nazara to raise $77m from Bluetile and BestPlay founders and leadership](https://www.pocketgamer.biz/nazara-to-raise-77m-from-bluetile-and-bestplay-founders-and-leadership/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-06** · [Nintendo taps mobile apps to promote Fire Emblem: Fortune's Weave](https://www.pocketgamer.biz/nintendo-taps-mobile-apps-to-promote-fire-emblem-fortunes-weave/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-06** · [Which Big Indie Pitch will you win this year?](https://www.pocketgamer.biz/which-big-indie-pitch-will-you-win-this-year/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-05** · [Reminder: if you're too busy to read us, the GameDiscoverCo Show is for you!](https://newsletter.gamediscover.co/p/reminder-if-youre-too-busy-to-read) — *GameDiscoverCo (Simon Carless)* `发行/Steam发现算法`
+- **2026-08-05** · [August 2026's Movers and Shakers: Nazara, Netflix, AppMagic, Cypher Games, Kabam, Lil Snack and more](https://www.pocketgamer.biz/august-2026s-movers-and-shakers/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-05** · [Why simple puzzle games keep players hooked and how to advertise them](https://www.pocketgamer.biz/why-simple-puzzle-games-keep-players-hooked-and-how-to-advertise-them/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-05** · [EA’s $55bn buyout complete in deal led by Saudi Arabia’s PIF](https://www.pocketgamer.biz/eas-55bn-buyout-complete-in-deal-led-by-saudi-arabias-pif/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-05** · [Raptor PR launches EGG platform for early stage games tech companies](https://www.pocketgamer.biz/raptor-pr-launches-egg-platform-for-early-stage-games-tech-companies/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-05** · [Why Canada’s games industry matters: A proven test market, talent and tax breaks](https://www.pocketgamer.biz/why-canadas-games-industry-matters-a-proven-test-market-talent-and-tax-breaks/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-05** · [Time travel RPG Reverse: 1999 surpasses 19.99m players](https://www.pocketgamer.biz/time-travel-rpg-reverse-1999-surpasses-1999m-players/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-05** · [Sega and Black White Orange partner to expand Angry Birds’ presence in India](https://www.pocketgamer.biz/sega-and-black-white-orange-partner-to-expand-angry-birds-presence-in-india/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-05** · [PG Connects: Uniting the Nordics in Helsinki this October 20th to 21st](https://www.pocketgamer.biz/pg-connects-uniting-the-nordics-in-helsinki-this-october-2021/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-04** · [July 2026's top new PC & console games, revealed...](https://newsletter.gamediscover.co/p/july-2026s-top-new-pc-and-console) — *GameDiscoverCo (Simon Carless)* `发行/Steam发现算法`
+- **2026-08-04** · [Jars AI co-founders join Roblox’s Foundation AI team](https://www.pocketgamer.biz/jars-ai-co-founders-join-robloxs-foundation-ai-team/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-04** · [Nazara CEO Nitish Mittersain to step down in September](https://www.pocketgamer.biz/nazara-ceo-nitish-mittersain-to-step-down-in-september/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-04** · [Refactor Games reportedly lays off 85% of staff](https://www.pocketgamer.biz/refactor-games-reportedly-lays-off-85-of-staff/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-04** · [Nazara revises terms to acquire Bluetile and Bestplay in all-cash deals](https://www.pocketgamer.biz/nazara-revises-terms-to-acquire-bluetile-and-bestplay-in-all-cash-deals/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-04** · [VFX optimisation in midcore games: Commonly overlooked techniques and advanced methods](https://www.pocketgamer.biz/vfx-optimisation-in-midcore-games-commonly-overlooked-techniques-and-advanced-methods/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-04** · [A peek behind the curtain of triple-A games, with Epic Games' Ari Arnbjörnsson](https://www.pocketgamer.biz/a-peek-behind-the-curtain-of-aaa-games-with-epic-games-ari-arnbjrnsson/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-04** · [How AI agents could impact mobile gaming monetisation](https://www.pocketgamer.biz/how-ai-agents-could-impact-mobile-gaming-monetisation/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-04** · [FirstLook’s Creators.gg platform launches with a "battle pass" model for streamers](https://www.pocketgamer.biz/firstlooks-creatorsgg-platform-launches-with-a-battle-pass-model-for-streamers/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-04** · [INFERIUS wins the Big Indie Pitch sponsored by Xsolla at NAGIS 2026](https://www.pocketgamer.biz/inferius-wins-the-big-indie-pitch-sponsored-by-xsolla-at-nagis-2026/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-04** · [Early Bird prices ending for the Mobile Games Awards 2026](https://www.pocketgamer.biz/early-bird-prices-ending-for-the-mobile-games-awards-2026/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-03** · [Garena is developing Palworld Online, launching this year](https://www.pocketgamer.biz/garena-is-developing-palworld-online-launching-this-year/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-03** · [Roblox revenue rises 36% Y/Y, but young North Americans see falling per-hour monetisation](https://www.pocketgamer.biz/roblox-revenue-rises-36-yy-but-young-north-americans-see-falling-per-hour-monetisation/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-03** · [Reforged Labs shuts down as CEO says AI is closing its market opportunity](https://www.pocketgamer.biz/reforged-labs-shuts-down-as-ceo-says-ai-is-closing-its-market-opportunity/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-03** · [Digimon Up makes $7.9m in player spending during first two weeks](https://www.pocketgamer.biz/digimon-up-makes-79m-in-player-spending-during-first-two-weeks/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-03** · [Most gaming companies aren't building creator platforms - they're building ecosystems](https://www.pocketgamer.biz/most-gaming-companies-arent-building-creator-platforms-theyre-building-ecosystems/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-03** · [Hot Five: Palworld 1.0, puzzle’s H1 2026 performance, and Ubisoft’s mobile net bookings share almost doubles](https://www.pocketgamer.biz/hot-five-palworld-10-puzzles-h1-2026-performance-and-ubisofts-mobile-net-bookings-share-almost-doubles/) — *Pocket Gamer.biz* `行业新闻`
+- **2026-08-03** · [5 Numbers Hiding in Plain Sight: Sensor Tower's Ad Monetization Report](https://www.deconstructoroffun.com/blog/5-numbers-hiding-in-plain-sight-sensor-towers-ad-monetization-report) — *Deconstructor of Fun* `F2P/工作室洞察`
+- **2026-08-02** · [Why Platform-Led Gaming in China Is Falling Short](https://naavik.co/digest/the-structural-failure-of-platform-led-gaming-in-china/) — *Naavik* `行业分析/并购`
+- **2026-07-31** · [How do PC player demographics change at 50 hours vs. 30 minutes?](https://newsletter.gamediscover.co/p/how-do-pc-player-demographics-change) — *GameDiscoverCo (Simon Carless)* `发行/Steam发现算法`
+- **2026-07-31** · [Fractional Talent’s Growing Role in Game Development](https://naavik.co/podcast/fractional-talents-growing-role-in-game-development/) — *Naavik* `行业分析/并购`
+- **2026-07-30** · [Is Friendslop saturated?](https://howtomarketagame.com/2026/07/30/is-friendslop-saturated/?utm_source=rss&utm_medium=rss&utm_campaign=is-friendslop-saturated) — *How To Market A Game (Chris Zukowski)* `Steam营销`
+- **2026-07-28** · [How Guildrun genre-mashed its way to ~300k demo players in 10 days](https://newsletter.gamediscover.co/p/how-guildrun-genre-mashed-its-way) — *GameDiscoverCo (Simon Carless)* `发行/Steam发现算法`
