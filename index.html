@@ -52,12 +52,14 @@
     }
 
     /* Notion 风格图标微调 */
-    .sidebar ul li i {
+    .sidebar ul li i,
+    .sidebar ul li span.ph {
       font-size: 15px !important;
       margin-right: 6px !important;
       vertical-align: -2px !important;
       color: #64748b;
       transition: color 0.15s ease;
+      display: inline-block;
     }
 
     /* --------------------------------------------------
@@ -80,7 +82,8 @@
       background-color: #f1f5f9 !important;
       border-color: #e2e8f0 !important;
     }
-    .sidebar ul li a:hover i {
+    .sidebar ul li a:hover i,
+    .sidebar ul li a:hover span.ph {
       color: #0f172a !important;
     }
 
@@ -92,7 +95,8 @@
       border-color: #c7d2fe !important;
       box-shadow: none !important;
     }
-    .sidebar ul li.active > a i {
+    .sidebar ul li.active > a i,
+    .sidebar ul li.active > a span.ph {
       color: var(--theme-color) !important;
     }
 
@@ -183,7 +187,7 @@
       repo: '',
       loadSidebar: true,
       subMaxLevel: 3,
-      executeScript: true, // 开启脚本/HTML标签解析
+      executeScript: true,
       search: {
         placeholder: '搜索分析报告...',
         noData: '未找到相关内容'
