@@ -1,63 +1,4351 @@
-[
-  "https://howtomarketagame.com/2026/07/30/is-friendslop-saturated/?utm_source=rss&utm_medium=rss&utm_campaign=is-friendslop-saturated",
-  "https://naavik.co/digest/friendslop-disrupting-the-live-ops-status-quo/",
-  "https://naavik.co/digest/the-structural-failure-of-platform-led-gaming-in-china/",
-  "https://naavik.co/podcast/fractional-talents-growing-role-in-game-development/",
-  "https://newsletter.gamediscover.co/p/game-discovery-lessons-from-30-years",
-  "https://newsletter.gamediscover.co/p/how-do-pc-player-demographics-change",
-  "https://newsletter.gamediscover.co/p/how-guildrun-genre-mashed-its-way",
-  "https://newsletter.gamediscover.co/p/july-2026s-top-new-pc-and-console",
-  "https://newsletter.gamediscover.co/p/reminder-if-youre-too-busy-to-read",
-  "https://www.deconstructoroffun.com/blog/5-numbers-hiding-in-plain-sight-sensor-towers-ad-monetization-report",
-  "https://www.deconstructoroffun.com/blog/why-the-best-founders-are-neither-american-nor-european",
-  "https://www.pocketgamer.biz/a-new-silk-road-for-video-games-and-interactive-entertainment/",
-  "https://www.pocketgamer.biz/a-peek-behind-the-curtain-of-aaa-games-with-epic-games-ari-arnbjrnsson/",
-  "https://www.pocketgamer.biz/a-tale-of-two-indies-how-triband-and-midjiwan-outlasted-the-boom-bust-cycle/",
-  "https://www.pocketgamer.biz/aptoide-returns-to-google-play-after-more-than-a-decade/",
-  "https://www.pocketgamer.biz/august-2026s-movers-and-shakers/",
-  "https://www.pocketgamer.biz/bandai-namco-sees-record-q1-while-digimon-achieves-highest-profit-ever/",
-  "https://www.pocketgamer.biz/chinajoy-insights-ea-finalises-sales-and-our-100th-episode-week-in-mobile-games-podcast/",
-  "https://www.pocketgamer.biz/copa-fantasy-is-finalising-a-750000-seed-round-to-accelerate-growth/",
-  "https://www.pocketgamer.biz/devolver-digital-eyes-deal-to-take-publisher-private/",
-  "https://www.pocketgamer.biz/digimon-up-makes-79m-in-player-spending-during-first-two-weeks/",
-  "https://www.pocketgamer.biz/early-bird-prices-ending-for-the-mobile-games-awards-2026/",
-  "https://www.pocketgamer.biz/eas-55bn-buyout-complete-in-deal-led-by-saudi-arabias-pif/",
-  "https://www.pocketgamer.biz/firstlooks-creatorsgg-platform-launches-with-a-battle-pass-model-for-streamers/",
-  "https://www.pocketgamer.biz/five-takeaways-from-chinajoy-2026/",
-  "https://www.pocketgamer.biz/former-icelandic-minister-joins-fenris-creations-to-lead-ai-partnerships/",
-  "https://www.pocketgamer.biz/funventure-secures-1m-seed-financing/",
-  "https://www.pocketgamer.biz/game-makers-of-finlands-wilma-ramona-ikheimonen-joins-pgc-nordics-speaker-lineup/",
-  "https://www.pocketgamer.biz/gamescom-2026-calls-for-stronger-political-support-for-germanys-games-industry/",
-  "https://www.pocketgamer.biz/garena-is-developing-palworld-online-launching-this-year/",
-  "https://www.pocketgamer.biz/handygames-rebrands-to-thq-nordic-mobile/",
-  "https://www.pocketgamer.biz/hot-five-garena-developing-palworld-online-tripledot-acquires-supersonic-and-digimon-up-makes-79m-in-two-weeks/",
-  "https://www.pocketgamer.biz/hot-five-palworld-10-puzzles-h1-2026-performance-and-ubisofts-mobile-net-bookings-share-almost-doubles/",
-  "https://www.pocketgamer.biz/how-ai-agents-could-impact-mobile-gaming-monetisation/",
-  "https://www.pocketgamer.biz/inferius-wins-the-big-indie-pitch-sponsored-by-xsolla-at-nagis-2026/",
-  "https://www.pocketgamer.biz/jars-ai-co-founders-join-robloxs-foundation-ai-team/",
-  "https://www.pocketgamer.biz/max-your-gamescom-week-with-pocket-gamer/",
-  "https://www.pocketgamer.biz/mobile-games-make-66bn-in-july-as-honor-of-kings-leads-player-spending/",
-  "https://www.pocketgamer.biz/most-gaming-companies-arent-building-creator-platforms-theyre-building-ecosystems/",
-  "https://www.pocketgamer.biz/nazara-ceo-nitish-mittersain-to-step-down-in-september/",
-  "https://www.pocketgamer.biz/nazara-revises-terms-to-acquire-bluetile-and-bestplay-in-all-cash-deals/",
-  "https://www.pocketgamer.biz/nazara-to-raise-77m-from-bluetile-and-bestplay-founders-and-leadership/",
-  "https://www.pocketgamer.biz/netmarble-makes-5051m-in-q2-2026-with-the-seven-deadly-sins-success/",
-  "https://www.pocketgamer.biz/new-release-roundup-dawnfolk-my-hero-academia-united-survival-madden-nfl-27-arcade-edition-and-more/",
-  "https://www.pocketgamer.biz/new-vietnam-mobile-studio-momin-games-launches/",
-  "https://www.pocketgamer.biz/nintendo-taps-mobile-apps-to-promote-fire-emblem-fortunes-weave/",
-  "https://www.pocketgamer.biz/nominate-the-women-we-should-celebrate-in-this-years-aurora-nordics/",
-  "https://www.pocketgamer.biz/pg-connects-uniting-the-nordics-in-helsinki-this-october-2021/",
-  "https://www.pocketgamer.biz/raptor-pr-launches-egg-platform-for-early-stage-games-tech-companies/",
-  "https://www.pocketgamer.biz/refactor-games-reportedly-lays-off-85-of-staff/",
-  "https://www.pocketgamer.biz/reforged-labs-shuts-down-as-ceo-says-ai-is-closing-its-market-opportunity/",
-  "https://www.pocketgamer.biz/roblox-revenue-rises-36-yy-but-young-north-americans-see-falling-per-hour-monetisation/",
-  "https://www.pocketgamer.biz/saudi-studio-majestic-mind-games-raises-145m/",
-  "https://www.pocketgamer.biz/sega-and-black-white-orange-partner-to-expand-angry-birds-presence-in-india/",
-  "https://www.pocketgamer.biz/time-travel-rpg-reverse-1999-surpasses-1999m-players/",
-  "https://www.pocketgamer.biz/tripledot-acquires-supersonic-from-unity-for-40m/",
-  "https://www.pocketgamer.biz/vfx-optimisation-in-midcore-games-commonly-overlooked-techniques-and-advanced-methods/",
-  "https://www.pocketgamer.biz/which-big-indie-pitch-will-you-win-this-year/",
-  "https://www.pocketgamer.biz/why-apple-arcade-offered-a-no-compromise-home-for-eas-madden-nfl-27-arcade-edition/",
-  "https://www.pocketgamer.biz/why-canadas-games-industry-matters-a-proven-test-market-talent-and-tax-breaks/",
-  "https://www.pocketgamer.biz/why-simple-puzzle-games-keep-players-hooked-and-how-to-advertise-them/"
-]
+{
+  "items": [
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599699/",
+      "title": "“AI游戏”深水区：10万AI居民“喜获涌现”，博士团队吐槽:“最近被AI毒打了”",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T04:12:43+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599734/",
+      "title": "组队整活游戏《BigWalk》Steam走红！暴走Walk之后，玩到被游戏感动？",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T04:00:32+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599691/",
+      "title": "独游开发者呼吁：“没工作、我们应自己创造工作！” 同行：“是不想吗？你出钱？”",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T02:08:11+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599656/",
+      "title": "《王者万象棋》制作人：国民IP如何撬动策略对战赛道？",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T02:02:21+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599682/",
+      "title": "大梦龙途干成休闲SLG了？《向末日开炮》首周杀入微信畅销榜Top15",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T01:34:43+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599666/",
+      "title": "7月抖音小游戏畅销榜Top 100：《灵画师》登顶、《兵器王者》第二",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T01:30:16+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599663/",
+      "title": "对话游密科技CEO白宁：服务6000款游戏、36亿玩家后，我们在AI时代做什么？",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T01:22:12+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599741/",
+      "title": "Sensor Tower：《王者荣耀》重夺冠军宝座，跃升2026年7月全球手游收入榜榜首",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T17:12:16+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599613/",
+      "title": "对话“外包大佬”维塔士中国总经理：3A大裁员AI冲击波，希望何在？",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T02:45:19+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599579/",
+      "title": "“游戏圈新海诚”？《OPUS》创始人：十年叙事长跑，从《龙脉常歌》到《心相吾山》",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T02:30:20+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599586/",
+      "title": "不再下场做游戏了？Unity 4000万美元出售游戏子公司Supersonic",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T02:07:15+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599580/",
+      "title": "UGC大佬还能缺游戏？Roblox高管承认“最近没爆款”，一年市值蒸发700亿美元",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T02:05:13+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599566/",
+      "title": "DeepSeek真在招聘游戏开发！游戏引擎公司老板吐槽：“为何都想做游戏”？",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T01:48:09+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599543/",
+      "title": "一夜之间成为三角洲社区顶流，景德镇御窑靠什么圈粉这届年轻人？",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T00:15:19+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599522/",
+      "title": "成熟玩法怎么做出新意？网易用”中式志怪”给了个范本",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T23:28:07+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599490/",
+      "title": "全网预约5000万、定档9月，王者IP新作又炸场了",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T22:45:08+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599626/",
+      "title": "Sensor Tower：点点互动三款游戏会师收入榜Top5，《绝区零》二周年推动海外收入大幅增长",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T17:39:44+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599633/",
+      "title": "2026 和平精英刺激之夜圆满收官，全明星共筑和平宇宙",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T15:00:41+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599474/",
+      "title": "2人开发爽游《Pathogenic》好评如潮：细胞进化Rougelike射击，确实有点意思？",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T04:06:46+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599458/",
+      "title": "对话《追逐卡蕾多》制作人：从一张图，到腾讯“机车美少女二游”！",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T03:30:51+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599423/",
+      "title": "不跳票了！《影之刃零》官宣终于做完，8月12日开启全平台预售",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T02:39:38+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599434/",
+      "title": "宝可梦开发商翻车！3A新游《轮回之兽》发售“褒贬不一”，玩家大失望",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T02:33:56+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599381/",
+      "title": "叠纸深圳上演暖暖大戏！“七年一梦花庭见、霓裳追光聚佳人”",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T02:01:43+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599411/",
+      "title": "人人都在抢量的夏季黄金档，游戏厂商需要什么能力来实现增长？",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T00:09:57+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599322/",
+      "title": "台北电玩展林立涵：进入台湾游戏市场需要知道的事",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T04:12:45+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599285/",
+      "title": "“南昌高中生”做的游戏Steam爆红！《完蛋！我被男同学包围了！》多抽象？",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T03:07:29+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599286/",
+      "title": "“3个月做出4款游戏”！金浩斌：AI之后，独立游戏会变成什么样？",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T02:22:02+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599356/",
+      "title": "Konami揭秘:《寂静岭》团队80%人不会英语，如何照样做全球游戏？",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T02:21:41+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599278/",
+      "title": "分析：如何靠UP主卖游戏，邀请码营销的威力你知道么？",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T01:37:53+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599340/",
+      "title": "上线首周玩家破百万，《雾影猎人》制作人：冷兵器搜打撤方向是对的",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T00:48:19+00:00"
+    },
+    {
+      "link": "http://www.gamelook.com.cn/2026/08/599319/",
+      "title": "MOBA大佬跑到网易“做饭”，开打前先干饭的“吃打撤”到底是什么？",
+      "source": "GameLook",
+      "region": "cn",
+      "category": "news",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T23:18:55+00:00"
+    },
+    {
+      "link": "https://www.chaihezi.com/node/390656",
+      "title": "TOOTHFAIRYSTUDIO 牙仙工作室原 创幻想生物 晶角蟒 GK 手办",
+      "source": "拆盒网",
+      "region": "cn",
+      "category": "review",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T07:02:45+00:00"
+    },
+    {
+      "link": "https://www.chaihezi.com/node/390628",
+      "title": "MEGAHOUSE 高智能方程式 CFC 珍藏版美洲豹 Z-6 Z-7 加贺",
+      "source": "拆盒网",
+      "region": "cn",
+      "category": "review",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T06:41:43+00:00"
+    },
+    {
+      "link": "https://www.chaihezi.com/node/390606",
+      "title": "HOTTOYS 我独自升级 TMS193 程肖宇 1/6可动人偶",
+      "source": "拆盒网",
+      "region": "cn",
+      "category": "review",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T06:19:26+00:00"
+    },
+    {
+      "link": "https://www.chaihezi.com/node/390580",
+      "title": "HOTTOYS 假面骑士亚极陀 TMS192 1/6可动人偶",
+      "source": "拆盒网",
+      "region": "cn",
+      "category": "review",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T06:08:21+00:00"
+    },
+    {
+      "link": "https://www.chaihezi.com/node/390558",
+      "title": "HOTTOYS 假面骑士空我 TMS191 1/6可动人偶",
+      "source": "拆盒网",
+      "region": "cn",
+      "category": "review",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T05:57:08+00:00"
+    },
+    {
+      "link": "https://www.chaihezi.com/node/390549",
+      "title": "嘉星堂 戴沃辉嘉 青春版 单素体+娃衣套装1/18可动人偶",
+      "source": "拆盒网",
+      "region": "cn",
+      "category": "review",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T05:36:32+00:00"
+    },
+    {
+      "link": "https://www.chaihezi.com/node/390527",
+      "title": "Storm Toys 太空海盗 哥普拉 CTSP02 1/12 可动人偶",
+      "source": "拆盒网",
+      "region": "cn",
+      "category": "review",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T04:59:56+00:00"
+    },
+    {
+      "link": "https://www.chaihezi.com/node/390512",
+      "title": "玄茧 烈华 红色 影姬 黑色 1/12 可动人偶",
+      "source": "拆盒网",
+      "region": "cn",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T09:39:21+00:00"
+    },
+    {
+      "link": "https://www.chaihezi.com/node/390499",
+      "title": "HIYA海雅 19.5cm 东京紧急求救 机械哥斯 拉重武装 高机动版",
+      "source": "拆盒网",
+      "region": "cn",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T08:15:00+00:00"
+    },
+    {
+      "link": "https://www.chaihezi.com/node/390481",
+      "title": "THREEZERO 铁人兄弟 盗侠2.0 经典普通版 可动人偶",
+      "source": "拆盒网",
+      "region": "cn",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T06:52:11+00:00"
+    },
+    {
+      "link": "https://www.chaihezi.com/node/390471",
+      "title": "本心楠改 零集易动 誓言君主 灰烬君主 永恒之王 超可动恐龙",
+      "source": "拆盒网",
+      "region": "cn",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T06:49:28+00:00"
+    },
+    {
+      "link": "https://www.chaihezi.com/node/390460",
+      "title": "WAVE Ma.K横山宏机械设计 H.A.F.S 超级杰瑞1/20拼装",
+      "source": "拆盒网",
+      "region": "cn",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T06:34:28+00:00"
+    },
+    {
+      "link": "https://www.chaihezi.com/node/390436",
+      "title": "HOTTOYS 蜘蛛侠崭新之日 浩克Hulk MMS905 1/6可动人偶",
+      "source": "拆盒网",
+      "region": "cn",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T06:22:37+00:00"
+    },
+    {
+      "link": "https://www.chaihezi.com/node/390412",
+      "title": "HOTTOYS 惩罚者 MMS904 1/6可动人偶",
+      "source": "拆盒网",
+      "region": "cn",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T06:15:48+00:00"
+    },
+    {
+      "link": "https://www.chaihezi.com/node/390394",
+      "title": "HOTTOYS 假面骑士Black RX 特技蝗虫号 1/6可动人偶",
+      "source": "拆盒网",
+      "region": "cn",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T06:05:11+00:00"
+    },
+    {
+      "link": "https://www.yystv.cn/p/14265",
+      "title": "2026年，在PS5上回味XBOX的历史高光",
+      "source": "游研社",
+      "region": "cn",
+      "category": "hot",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T16:00:00+00:00"
+    },
+    {
+      "link": "https://www.yystv.cn/p/14259",
+      "title": "亮出 12 款游戏的朝夕光年，今年的 CJ 展台没闲下来过",
+      "source": "游研社",
+      "region": "cn",
+      "category": "hot",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T16:00:00+00:00"
+    },
+    {
+      "link": "https://www.yystv.cn/p/14258",
+      "title": "真关心游戏的人们，现在更重视ChinaJoy了",
+      "source": "游研社",
+      "region": "cn",
+      "category": "hot",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T16:00:00+00:00"
+    },
+    {
+      "link": "https://www.yystv.cn/p/14261",
+      "title": "腾讯制作人自述：二游为什么应该学学Galgame？",
+      "source": "游研社",
+      "region": "cn",
+      "category": "hot",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T16:00:00+00:00"
+    },
+    {
+      "link": "https://www.yystv.cn/p/14260",
+      "title": "微软CTO下场整活，用“Windows画图”畅玩DOOM",
+      "source": "游研社",
+      "region": "cn",
+      "category": "hot",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T16:00:00+00:00"
+    },
+    {
+      "link": "https://www.yystv.cn/p/14255",
+      "title": "我在以搞钱闻名的城市，体验了一场“爽赚”派对",
+      "source": "游研社",
+      "region": "cn",
+      "category": "hot",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T16:00:00+00:00"
+    },
+    {
+      "link": "https://www.yystv.cn/p/14257",
+      "title": "坦克也能放技能？《坦克世界》IP新作，拒绝做代餐",
+      "source": "游研社",
+      "region": "cn",
+      "category": "hot",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T16:00:00+00:00"
+    },
+    {
+      "link": "https://www.yystv.cn/p/14256",
+      "title": "网易刚刚曝光的《雾海之下》，看起来有点好吃",
+      "source": "游研社",
+      "region": "cn",
+      "category": "hot",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T16:00:00+00:00"
+    },
+    {
+      "link": "https://www.yystv.cn/p/14254",
+      "title": "在东方明珠，我和绝地潜兵兄弟们再次保卫了“仰齐浜”",
+      "source": "游研社",
+      "region": "cn",
+      "category": "hot",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T16:00:00+00:00"
+    },
+    {
+      "link": "https://www.yystv.cn/p/14253",
+      "title": "灰姑娘的水晶鞋变得比王子帅？迪士尼IP改编女性向乙游",
+      "source": "游研社",
+      "region": "cn",
+      "category": "hot",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T16:00:00+00:00"
+    },
+    {
+      "link": "https://www.yystv.cn/p/14252",
+      "title": "&quot;强求好结局是对生活不诚实&quot;：CDPR游戏副总监在CJ分享任务设计理念",
+      "source": "游研社",
+      "region": "cn",
+      "category": "hot",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T16:00:00+00:00"
+    },
+    {
+      "link": "https://www.yystv.cn/p/14251",
+      "title": "CEO亲自带队，上海老牌MMO大厂迎来“重返一线”的机会",
+      "source": "游研社",
+      "region": "cn",
+      "category": "hot",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T16:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/999/G999901/20260811003/",
+      "title": "PC版「ゼンシンマシンガール」が60％オフの2792円！ ディースリー・パブリッシャー作品がお得な「D3PUBLISHER SALE」がSteamで開催",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T05:02:07+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/032/G103211/20260811002/",
+      "title": "「PoE」ファンが約2年半をかけて1人で開発。広大な夢の世界を冒険するローグライトアクションRPG「響き、夢境に」がSteamで本日発売",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T04:37:30+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/032/G103210/20260811001/",
+      "title": "現実とは異なる歴史を歩みつつある17世紀フランスを，銃士たちがゆく。タクティカルRPG「COVENANT OF GEARS The Three Musketeers」が発表",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T03:55:44+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/421/G042182/20260810036/",
+      "title": "「FGO」の番組「カルデア放送局 ライト版 〜水着イベント2026〜」は8月12日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T23:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/999/G999905/20260807022/",
+      "title": "10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T22:30:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/031/G103196/20260810044/",
+      "title": "ちょっとしたミスで壊れる身体を操り遺跡へ潜る協力型ホラー脱出ゲーム「GRAIN ROT」，Steamで配信開始",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T12:14:20+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/032/G103209/20260810043/",
+      "title": "実写のゴールデンレトリバーと触れ合うペットシム「ゴールデンレトリバーと過ごす日々」，デモ版を8月12日に配信",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T11:53:19+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/015/G101529/20260810042/",
+      "title": "史上初の“欧州人サムライ”を目指すターンベースRPG「Expeditions: Samurai」，早期アクセス版を配信開始",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T11:34:07+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/599/G059954/20260810041/",
+      "title": "「崩壊：スターレイル」，Ver.4.5「千の星に賭すチップ」予告番組を8月14日20：30に配信。同時に二相楽園テレビ局特別通信も公開予定",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T11:15:49+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/991/G999106/20260807018/",
+      "title": "わしゃがなTVの最新動画では，ちょっぴり高額なデジカメブラインドボックスや「吸血鬼ハンターD」フィギュアなど，2人の私物を紹介",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T11:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/031/G103193/20260810040/",
+      "title": "強力コンボでハイスコアを目指せ！　ローグライクマガジンビルダーFPS「Lucky Shot」，Steamで配信開始",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T10:55:30+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/032/G103208/20260810038/",
+      "title": "カラスになって過酷な自然界を生き抜くサバイバルゲーム「Migration」，Kickstarterの事前登録ページを開設",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T10:43:21+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/830/G083028/20260810039/",
+      "title": "「REANIMAL」のDLC「REANIMAL: The Prisoner」が配信中。新キャラクター「兵士」と「囚人」が戦争によって荒廃した世界を彷徨う",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T10:41:56+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/032/G103207/20260810034/",
+      "title": "朝凪氏デザインの生意気娘が，600種類以上の煽りボイスで挑発し続ける！ チアダンスを指導する新感覚リズムゲーム「がんばれ！チアリズム」，2027年に発売",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T09:42:11+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/004/G100451/20260810032/",
+      "title": "「にじたうん」のマスコットがシールになった「にじさんじ うるちゅるポップシール」が発売に",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T09:24:52+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/991/G999109/20260810031/",
+      "title": "ハードオフの店内BGMのアナログレコードがカラー版になって再び登場。ラジオDJ・島村仁氏による店内アナウンス入りバージョンも収録",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T09:15:49+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/945/G094527/20260807033/",
+      "title": "映画「ザ・スーパーマリオギャラクシー・ムービー」のサントラが9月9日に発売。CD，アナログレコード，カセットテープをラインナップ",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T09:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/981/G098142/20260810029/",
+      "title": "スクエニHD，2027年3月期第1四半期の連結決算は大幅な増収増益。「FFVII リバース」などの新作とカタログタイトルが好調",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T08:41:23+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/999/G999905/20260731044/",
+      "title": "［プレゼント］携帯型ゲームPCやゲーマ向けウルトラワイド曲面ディスプレイ，ステアリングコントローラやフライトスティックなどが当たる！「2026 Summer Special Present」開催中",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T08:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/992/G099295/20260807051/",
+      "title": "「機動警察パトレイバー the Case Files」，9月17日に発売決定。特車二課と，それに相対する側の双方の視点で描く3Dアクション",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T08:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/993/G099390/20260810027/",
+      "title": "誰でも参加できるオープンプレイテストが実施中。「Serious Sam: Shatterverse」，8月31日にリリース決定",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T07:54:01+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/031/G103199/20260810026/",
+      "title": "死亡したはずの運転手，監視映像に映らない人物……地下駐車場の夜間管理員として，情報の矛盾から怪異を見抜く。審査型サイコホラーシム「B3について口にするな」が発表に",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T06:56:26+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/938/G093804/20260810023/",
+      "title": "「サクラ大戦」「テイルズ オブ」シリーズで知られる藤島康介氏のデビュー40周年を記念した展覧会が9月18日より順次開催",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T06:51:42+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/013/G101319/20260810025/",
+      "title": "「シティーズ：スカイライン リマスター ジャパン・スペシャル・エディション」，日本をテーマにした追加コンテンツ3種を紹介",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T06:46:33+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/031/G103190/20260810019/",
+      "title": "クセが強い作家たちとシェアハウスで過ごす夏休み。ハッピーエンドのみの「メイドイン限界原稿ハウス」，BOOTHとノベルゲームコレクションで公開",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T05:57:57+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/260/G026042/20260810018/",
+      "title": "次回作発売前に「グランド・セフト・オートV」は2億3000万本の販売を達成。Take-Two Interactiveが2027年度第1四半期の業績報告で明らかに",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T05:20:59+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/968/G096885/20260810017/",
+      "title": "「スター・ウォーズ：ギャラクティック・レーサー」，マシンの1種“ランドスピーダー”を紹介する最新トレイラーが公開に",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T05:10:35+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/021/G102117/20260810016/",
+      "title": "部活制のジョブシステムでパーティを編成し，異界と化した旧校舎の地下を探索。ダンジョンクロールRPG「S.O.L School Of Labyrinth」，2026年8月13日に発売",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T05:07:16+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/958/G095815/20260810014/",
+      "title": "「あつまれ どうぶつの森」の新作グッズに「巾着 ベルぶくろ」と「折りたたみバッグ タヌキ商店」が登場。グッズの先行販売を実施中",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T04:48:20+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/990/G999019/20260810015/",
+      "title": "大容量バッテリーを搭載した6.3インチスマートフォン「OPPO Reno16 5G」が8月17日に国内発売",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T04:26:01+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/031/G103185/20260810012/",
+      "title": "スマホのセンサーやカメラで全身の動きを検知するフィットネスアプリ「全力フルパワーフィットネス」配信開始",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T04:19:55+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/918/G091815/20260810011/",
+      "title": "「Beast of Reincarnation」のアップデートパッチが配信に。ボスのバランス調整や，各種不具合の修正など多数の改善を実施",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T04:07:20+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/991/G999110/20260808001/",
+      "title": "TGS2026，インディー企画「SELECTED INDIE 80」受賞8作品とSOWNファイナリスト8作品を発表。ポッキー氏は5年連続で公式アンバサダーに就任",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T04:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/031/G103181/20260810008/",
+      "title": "オープンワールド・アクションADV「Zhai」，ゲームシステムの詳細を公開。属性能力を組み合わせて戦うアクションや成長システムを紹介",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T03:32:37+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/998/G099824/20260810007/",
+      "title": "「レイトン教授」とQuizKnockがコラボ！ 「レイトン教授と秘密の招待状 in 東京ドームシティ」9月10日から12月20日まで開催",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T03:00:21+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/031/G103174/20260810003/",
+      "title": "廃墟となった商店街で，ある儀式を行う。怖いのが苦手な人でも楽しめるモードも収録したホラーゲーム「奥ヶ淵商店街」，Steamで配信中",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T02:54:53+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/976/G097627/20260810001/",
+      "title": "あなたは光ることしかできない機械。謎の訪問者と発光のオンオフで交流する「光るだけしかない機械」のSteam版，8月28日に発売決定",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T02:05:02+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/917/G091773/20260807067/",
+      "title": "“バイオ（810）の日”を記念した，映画「バイオハザード」の日本限定特別予告が公開に。不穏な医療バッグを運ぶ，配達員の姿を描く",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T23:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/016/G101649/20260716016/",
+      "title": "ひっぱって離して謎を解く，のびーるポイント＆クリックADV「Crushed In Time」（あかねのSteam Pick Up！）",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T23:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/000/G100009/20260809005/",
+      "title": "【今週のモチベ】ベトナム戦争を題材にした大規模マルチプレイFPS「Hell Let Loose: Vietnam」が発売される 2026年8月10日〜8月16日",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T23:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/040/G004099/20260809008/",
+      "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年8月3日〜8月9日",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T22:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/036/G003691/20260807050/",
+      "title": "Access Accepted第869回：AI特需とゲームハードウェアの受難。クラウドゲーミングは代替策になるのか？",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T22:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/031/G103171/20260809010/",
+      "title": "最新バージョン「機動戦士ガンダム アーセナルコマンダー」が2027年2月から稼働開始。「アーセナルベース」の資産を引き継ぎ，3人対戦形式に変更",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T13:21:29+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/739/G073914/20260809006/",
+      "title": "「魂斗羅」のコミック化契約が海外で締結。アメリカのMad Cave Studiosが「ファンの期待を超えるストーリー」を制作",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T07:22:47+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/026/G102627/20260809007/",
+      "title": "破れた絵画を3分以内に修復する「なかったことに」，発売日を8月20日に決定。名画の収録数が100点に増加し，オンライン対戦モードも実装予定",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T05:06:58+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/002/G100258/20260808008/",
+      "title": "ダイスとコインを持ち，ページをめくって戦う。読書型ファンタジーADV「ヴェリタステイルズ：暗黒城の魔女」のサウンドトラックをリリース",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T03:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/925/G092590/20260809003/",
+      "title": "「Moonlight Peaks」でヴァンパイアの夜行性スローライフを満喫【放課後れびゅあーず！】",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T03:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/031/G103170/20260809004/",
+      "title": "世界の駅名書けるかな？ もちろん，現地の言語で。地下鉄タイピング「K-jihacheol」，Steamストアページを公開。8月中に配信予定",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T02:09:58+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/013/G101345/20260807046/",
+      "title": "「ムーミン：ムーミン谷の夏まつり」，今秋に発売決定。トーベ・ヤンソンが手掛けた「ムーミン谷の夏まつり」から着想を得たADV",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T01:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/238/G023885/20260809002/",
+      "title": "公式生放送「グラブル生放送 ようこそ真夏のショータイムSP」の発表をまとめてチェック。「グラブルフェス2026」やキャラソンの情報も",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T17:22:27+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/476/G047609/20260810037/",
+      "title": "「プロセカ」，オツキミリサイタルをリズムゲーム楽曲に追加。セカイver.とバーチャル・シンガーver.でプレイ可能",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T06:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/476/G047609/20260810033/",
+      "title": "「プロセカ」，じん氏が作詞・作曲を手掛けたアディショナルメモリーを実装",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T09:24:13+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/226/G022696/20260810022/",
+      "title": "「セガNET麻雀 MJ」，タレントの福留光帆さん，二瓶有加さんとのコラボイベントを開始",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T06:18:49+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/029/G002975/20260810004/",
+      "title": "ゲームPCのGALLERIAが「あおぎり高校」とスポンサーシップ契約を締結",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T02:32:45+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/476/G047609/20260810002/",
+      "title": "「プロセカ」，天秤、指先で触れて（セカイver.）の2DMVがフルサイズで公開",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T02:29:41+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/476/G047609/20260807060/",
+      "title": "「プロセカ」，“Leap Beyond The Limits！”と“Piercing Lightガチャ”を開催",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T06:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/238/G023885/20260809001/",
+      "title": "「グランブルーファンタジー」×TVアニメ「SHAMAN KING」コラボが2027年1月15日に開催へ。麻倉 葉（CV：日笠陽子）のイラストが公開",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T16:41:50+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/817/G081722/20260808009/",
+      "title": "「NTE」Ver.1.3「霧月夜に星還りて」予告番組まとめ。新キャラ「残虹」「リンコ」や新エリア「星暮保護区」，水上バイク，ビーチバレーなどが登場",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T12:49:56+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/008/G100858/20260807053/",
+      "title": "「アノマリス／ANOMALITH」「クライムライト／CRYMELIGHT」，Steamで公開した体験版の配信継続が決定",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T11:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/038/G003821/20260808005/",
+      "title": "週刊Steam広場 第165号：農業ライフシムRPG「Fields of Mistria」や砲撃シム「IRON NEST」が発売に",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T09:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/031/G103169/20260808007/",
+      "title": "“遊べるToDoリスト”な「Slaymeji: Roguelite Desktop Survivor」，Steamストアページを公開。タスク完了でアンロックが進むローグライト",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T07:20:18+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/571/G057139/20260808004/",
+      "title": "「Lies of P」，開発の舞台裏を語る最新映像を公開。異色のソウルライクアクションRPGはどのようにして作られたのか",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T03:58:55+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/962/G096270/20260807016/",
+      "title": "夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T03:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/622/G062211/20260805031/",
+      "title": "「アークナイツ：エンドフィールド」半年ぶりに再訪したら，奥深い工業化＆自動化で止めどきが見つからない",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T03:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/487/G048777/20260808002/",
+      "title": "「ヘブンバーンズレッド」，4.5周年特別生放送を8月9日18：00に配信。周年記念ストーリーイベント「の概要や新ユニゾンスタイル「水瀬いちご」の性能が明らかに",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T03:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/817/G081722/20260808003/",
+      "title": "真夏の池袋に鑑定士たちが集う。「NTE」オフラインイベント「メェメェ村の大冒険」が中池袋公園で開催中。8月9日まで",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T02:50:40+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/898/G089803/20260807066/",
+      "title": "「MIMESIS」の開発過程が明かされた「KRAFTON × ReLU Games 開発トーク」をレポート。AIを用いたゲーム開発や，プレイヤーを模倣するNPCの制作手法などが紹介された",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T00:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/476/G047609/20260807062/",
+      "title": "「プロセカ」，星乃一歌の誕生日イベント開催中。「魔法少女とチョコレゐト」と「アクセラレイト」にリズムゲーム音源を追加",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T23:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/991/G999110/20260807063/",
+      "title": "「THQ Nordic デジタルショーケース 2026」発表情報まとめ。狩猟シミュレーション「Way of the Hunter 2」の発売日が9月29日に決定",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T19:30:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/015/G101520/20260807068/",
+      "title": "「FFX」25周年記念展覧会「FINAL FANTASY X MUSEUM-幻光の記憶-」チケット販売を開始。入場特典や限定グッズ情報も一部公開に",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T15:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/634/G063420/20260807065/",
+      "title": "「鳴潮」，Ver.3.6「幻雲纏いし灯の影、俗世憂いし剣の心」を8月20日にリリース。伝説の剣仙「清宵」，陰陽両界を渡る「景燃」が登場",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T13:40:01+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/991/G999103/20260807064/",
+      "title": "「映画ちいかわ 人魚の島のひみつ」2週目入場特典が8月8日より配布開始。ちいかわ，セイレーン，島二郎などがボンボンドロップシールに",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T12:59:52+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/519/G051905/20260807061/",
+      "title": "「頭文字DAC」，東方Projectコラボ第3弾をEX復刻として開催中",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T12:20:43+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/031/G103168/20260807059/",
+      "title": "Steam版「Phantom PHANTOM OF INFERNO」が9月4日に発売へ。「魔法少女まどか☆マギカ」「Fate/Zero」で知られる虚淵玄氏のデビュー作",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T12:05:06+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/865/G086589/20260807056/",
+      "title": "「VIRTUA FIGHTER CROSSROADS」，楽曲「LEGACY」を各種音楽配信サービスで公開",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T11:45:15+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/009/G100920/20260807054/",
+      "title": "心温まるゲームや居心地のいいゲームが勢ぞろい。オンラインイベント「Wholesome Games Celebration」，8月14日2：00までSteamで開催",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T11:40:15+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/004/G100451/20260807055/",
+      "title": "にじさんじ「戌亥とこ」YouTubeのチャンネル登録者数100万人記念グッズの受注販売が始まる",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T11:29:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/920/G092076/20260807052/",
+      "title": "スカウトたちを待ち受ける不穏な建築物の正体とは。オンライン協力クライミングゲーム「PEAK」，最後の大型アップデートを8月11日に配信",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T11:12:51+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/630/G063081/20260807048/",
+      "title": "「ゼンレスゾーンゼロ」，フリンツ工房に所属する「ロクシー・イフリータ・プライス」（CV：赤&#64017;千夏）の情報を公開。属性は風で，特性は撃破",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T10:37:59+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/031/G103167/20260807049/",
+      "title": "気絶した飼い主を引きずって病院まで連れていく協力型プラットフォーマー「Ruffed Up」デモ版を配信中。飼い主が災難すぎる",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T10:35:06+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/031/G103166/20260807047/",
+      "title": "手強いミッションをこなすため，強力な宇宙船を作り上げろ。最大4人協力型シミュレーション「Approximately Up」，配信開始",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T10:26:13+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/127/G012714/20260807045/",
+      "title": "「S.T.A.L.K.E.R. 2: Heart of Chornobyl」，大型DLC「Cost of Hope」のゲームプレイトレイラー公開。新エリアや探索シーンを約8分で紹介",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T09:45:34+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/985/G098576/20260807041/",
+      "title": "お菓子をモチーフにしたキャラクターが大暴れ！ 重火器をぶっ放すローグライクアクション「チョコレートパレード」，デモ版を配信中",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T09:15:43+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/918/G091829/20260807044/",
+      "title": "「ペルソナ4 リバイバル」，特別体験会のレポート動画が公開に",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T09:01:23+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/920/G092047/20260715047/",
+      "title": "［プレイレポ］「幻想水滸伝 STAR LEAP」はシリーズ作品と同じ世界，同じ歴史で描かれる新しい108星の物語。ドット絵キャラが躍動する寸劇や戦略性の高いバトルにも注目",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T09:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/022/G102283/20260807042/",
+      "title": "「骸骨騎士様、只今異世界へお出掛け中 SKULL BRAVE」ティザーPVを公開。アークたちの冒険やバトルシーンを収録",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T08:55:28+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/991/G999106/20260807043/",
+      "title": "「SONIC & FRIENDS」，アイドルグループ「きゅるりんってしてみて」との特別企画が決定",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T08:52:33+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/983/G098371/20260806015/",
+      "title": "初代の雰囲気を生かしつつ，現代風のアレンジを加えた「ラグナロクオンライン３」はどんな感じか。試遊した歴戦ROプレイヤーに感想を聞いてみた［CJ2026］",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T08:50:12+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/027/G102763/20260807040/",
+      "title": "ひとりの少女が世界を侵食から救う旅へ出る2DアクションADV「Akatori」，Steamで配信開始",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T08:48:31+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/882/G088214/20260807039/",
+      "title": "「ソニックレーシング クロスワールド」，誰でも参加可能なレジェンドコンペ ラウンド7を開始",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T08:34:29+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/031/G103162/20260807037/",
+      "title": "呪文は長ければ長いほど強力。自分で名付けた魔法を実際に唱えるオンラインPvPアクション「Super Shout Showdown」，配信開始",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T08:12:42+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/031/G103129/20260806060/",
+      "title": "Nintendo Switch版「メンヘラリウム」が8月13日発売へ。血を賭けたチンチロリンで，7日間の生存を目指すデッキ構築ローグライト",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T08:00:00+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/031/G103160/20260807038/",
+      "title": "焼け焦げた8つの事件記録を，キーワード検索で復元する。タイピングしながら推理していくミステリーADV「九つ目の記録」が発表に",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T07:52:13+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/013/G101334/20260807036/",
+      "title": "リズム弾幕アクションゲーム「アステリカ：ファントムローズ・リフレイン」の発売日が9月3日に決定",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T07:17:14+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/964/G096417/20260807035/",
+      "title": "「EGGコンソール コンパイル夏休みセール 2026」第2弾を開始。「ぷよぷよ」「かーばんくるぴ」が30％オフに",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T07:00:23+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/031/G103154/20260807034/",
+      "title": "生き延びるため，四肢を奪った男“四肢削ぎ魔”の恋人を演じきり，監禁生活を送る。サイコホラーロマンスADV「欠損失愛」，体験版を2026年8月20日まで再配信",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T06:50:46+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/982/G098256/20260807031/",
+      "title": "実在する物件で監視業務を行うホラーゲームシリーズの3作目「日本事故物件監視協会3」，PC/スマホ向けに配信開始",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T06:39:05+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/999/G999905/20260807032/",
+      "title": "「Nintendo Store」，あと払い（ペイディ），Apple Pay，Google Payでの支払いに対応。入力の手間が省ける",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T06:29:16+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/031/G103151/20260807030/",
+      "title": "オンライン対戦ゲーム「GALAST」，事前登録受付を開始。将棋や麻雀，大富豪など多彩な定番ゲームを1つのアプリに収録",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T06:24:44+00:00"
+    },
+    {
+      "link": "https://www.4gamer.net/games/969/G096988/20260806051/",
+      "title": "「空の軌跡 the 2nd」最新PVを公開。エステルたちの新たな旅路や結社との激闘，リベール王国最大の危機を描く",
+      "source": "4Gamer（全站更新）",
+      "region": "jp_kr",
+      "category": "hot",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T06:00:00+00:00"
+    },
+    {
+      "link": "https://www.deconstructoroffun.com/blog/why-the-best-founders-are-neither-american-nor-european",
+      "title": "Why the Best Founders Are Neither American nor European",
+      "source": "Deconstructor of Fun",
+      "region": "west",
+      "category": "hot",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T12:46:47+00:00"
+    },
+    {
+      "link": "https://www.deconstructoroffun.com/blog/5-numbers-hiding-in-plain-sight-sensor-towers-ad-monetization-report",
+      "title": "5 Numbers Hiding in Plain Sight: Sensor Tower's Ad Monetization Report",
+      "source": "Deconstructor of Fun",
+      "region": "west",
+      "category": "hot",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T10:31:44+00:00"
+    },
+    {
+      "link": "https://www.deconstructoroffun.com/blog/how-toon-blast-became-the-best-business-in-puzzle",
+      "title": "How Toon Blast Became the Best Business in Puzzle",
+      "source": "Deconstructor of Fun",
+      "region": "west",
+      "category": "hot",
+      "date": "2026-07-27",
+      "date_sort": "2026-07-27T15:48:05+00:00"
+    },
+    {
+      "link": "https://www.deconstructoroffun.com/blog/the-most-honest-ai-adoption-story-in-gaming",
+      "title": "The Most Honest AI Adoption Story in Gaming",
+      "source": "Deconstructor of Fun",
+      "region": "west",
+      "category": "hot",
+      "date": "2026-07-20",
+      "date_sort": "2026-07-20T11:13:53+00:00"
+    },
+    {
+      "link": "https://www.deconstructoroffun.com/blog/the-hidden-cost-of-studio-engineering",
+      "title": "The Hidden Cost of Studio Engineering",
+      "source": "Deconstructor of Fun",
+      "region": "west",
+      "category": "hot",
+      "date": "2026-07-13",
+      "date_sort": "2026-07-13T08:37:21+00:00"
+    },
+    {
+      "link": "https://newsletter.gamediscover.co/p/game-discovery-lessons-from-30-years",
+      "title": "Game discovery lessons from 30 years (!) in the biz",
+      "source": "GameDiscoverCo (Simon Carless)",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T19:36:02+00:00"
+    },
+    {
+      "link": "https://newsletter.gamediscover.co/p/reminder-if-youre-too-busy-to-read",
+      "title": "Reminder: if you're too busy to read us, the GameDiscoverCo Show is for you!",
+      "source": "GameDiscoverCo (Simon Carless)",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T17:24:58+00:00"
+    },
+    {
+      "link": "https://newsletter.gamediscover.co/p/july-2026s-top-new-pc-and-console",
+      "title": "July 2026's top new PC & console games, revealed...",
+      "source": "GameDiscoverCo (Simon Carless)",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T18:59:53+00:00"
+    },
+    {
+      "link": "https://newsletter.gamediscover.co/p/how-do-pc-player-demographics-change",
+      "title": "How do PC player demographics change at 50 hours vs. 30 minutes?",
+      "source": "GameDiscoverCo (Simon Carless)",
+      "region": "west",
+      "category": "news",
+      "date": "2026-07-31",
+      "date_sort": "2026-07-31T19:21:58+00:00"
+    },
+    {
+      "link": "https://newsletter.gamediscover.co/p/how-guildrun-genre-mashed-its-way",
+      "title": "How Guildrun genre-mashed its way to ~300k demo players in 10 days",
+      "source": "GameDiscoverCo (Simon Carless)",
+      "region": "west",
+      "category": "news",
+      "date": "2026-07-28",
+      "date_sort": "2026-07-28T18:48:30+00:00"
+    },
+    {
+      "link": "https://newsletter.gamediscover.co/p/will-fewer-people-buy-your-steam",
+      "title": "Will fewer people buy your Steam game due to player reviews?",
+      "source": "GameDiscoverCo (Simon Carless)",
+      "region": "west",
+      "category": "news",
+      "date": "2026-07-24",
+      "date_sort": "2026-07-24T14:20:28+00:00"
+    },
+    {
+      "link": "https://newsletter.gamediscover.co/p/what-long-tail-should-you-expect",
+      "title": "What 'long tail' should you expect for your PC game in 2026?",
+      "source": "GameDiscoverCo (Simon Carless)",
+      "region": "west",
+      "category": "news",
+      "date": "2026-07-21",
+      "date_sort": "2026-07-21T18:48:11+00:00"
+    },
+    {
+      "link": "https://newsletter.gamediscover.co/p/what-1-million-immediate-wishlists",
+      "title": "What 1 million (immediate!) wishlists for Dear Passengers says about discovery..",
+      "source": "GameDiscoverCo (Simon Carless)",
+      "region": "west",
+      "category": "news",
+      "date": "2026-07-17",
+      "date_sort": "2026-07-17T19:15:16+00:00"
+    },
+    {
+      "link": "https://newsletter.gamediscover.co/p/how-paralives-sold-a-million-copies",
+      "title": "How Paralives sold a million copies in its first month...",
+      "source": "GameDiscoverCo (Simon Carless)",
+      "region": "west",
+      "category": "news",
+      "date": "2026-07-14",
+      "date_sort": "2026-07-14T20:54:14+00:00"
+    },
+    {
+      "link": "https://naavik.co/digest/friendslop-disrupting-the-live-ops-status-quo/",
+      "title": "Friendslop: Disrupting the Live-ops Status Quo",
+      "source": "Naavik",
+      "region": "west",
+      "category": "hot",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T17:30:00+00:00"
+    },
+    {
+      "link": "https://naavik.co/digest/the-structural-failure-of-platform-led-gaming-in-china/",
+      "title": "Why Platform-Led Gaming in China Is Falling Short",
+      "source": "Naavik",
+      "region": "west",
+      "category": "hot",
+      "date": "2026-08-02",
+      "date_sort": "2026-08-02T17:30:00+00:00"
+    },
+    {
+      "link": "https://naavik.co/podcast/fractional-talents-growing-role-in-game-development/",
+      "title": "Fractional Talent’s Growing Role in Game Development",
+      "source": "Naavik",
+      "region": "west",
+      "category": "hot",
+      "date": "2026-07-31",
+      "date_sort": "2026-07-31T11:30:00+00:00"
+    },
+    {
+      "link": "https://naavik.co/digest/how-online-fandom-is-rewriting-the-ip-playbook/",
+      "title": "How Online Fandom Is Rewriting the IP Playbook",
+      "source": "Naavik",
+      "region": "west",
+      "category": "hot",
+      "date": "2026-07-26",
+      "date_sort": "2026-07-26T17:30:00+00:00"
+    },
+    {
+      "link": "https://naavik.co/podcast/inside-subway-surfers-mobile-gamings-most-enduring-hit/",
+      "title": "Inside Subway Surfers, Mobile Gaming’s Most Enduring Hit",
+      "source": "Naavik",
+      "region": "west",
+      "category": "hot",
+      "date": "2026-07-21",
+      "date_sort": "2026-07-21T12:22:22+00:00"
+    },
+    {
+      "link": "https://naavik.co/digest/the-memo-that-undid-10-years-of-xbox-strategy/",
+      "title": "The Memo That Undid 10 Years of XBOX Strategy",
+      "source": "Naavik",
+      "region": "west",
+      "category": "hot",
+      "date": "2026-07-19",
+      "date_sort": "2026-07-19T17:30:00+00:00"
+    },
+    {
+      "link": "https://naavik.co/deep-dives/indias-state-of-play/",
+      "title": "MIXI Global Investments’ India’s State of Play",
+      "source": "Naavik",
+      "region": "west",
+      "category": "hot",
+      "date": "2026-07-13",
+      "date_sort": "2026-07-13T07:43:35+00:00"
+    },
+    {
+      "link": "https://naavik.co/digest/the-ai-boom-is-repricing-gaming-hardware-and-rewiring-the-console-business/",
+      "title": "The AI Boom Is Repricing Gaming Hardware and Rewiring the Console Business",
+      "source": "Naavik",
+      "region": "west",
+      "category": "hot",
+      "date": "2026-07-12",
+      "date_sort": "2026-07-12T17:30:00+00:00"
+    },
+    {
+      "link": "https://howtomarketagame.com/2026/07/30/is-friendslop-saturated/?utm_source=rss&utm_medium=rss&utm_campaign=is-friendslop-saturated",
+      "title": "Is Friendslop saturated?",
+      "source": "How To Market A Game (Chris Zukowski)",
+      "region": "west",
+      "category": "hot",
+      "date": "2026-07-30",
+      "date_sort": "2026-07-30T13:19:37+00:00"
+    },
+    {
+      "link": "https://howtomarketagame.com/2026/07/14/games-that-used-momentum-for-steam-next-fest-success/?utm_source=rss&utm_medium=rss&utm_campaign=games-that-used-momentum-for-steam-next-fest-success",
+      "title": "Games that used momentum for Steam Next Fest Success",
+      "source": "How To Market A Game (Chris Zukowski)",
+      "region": "west",
+      "category": "hot",
+      "date": "2026-07-14",
+      "date_sort": "2026-07-14T17:44:28+00:00"
+    },
+    {
+      "link": "https://howtomarketagame.com/2026/07/13/did-ai-slop-ruin-steam-next-fest-june-2026/?utm_source=rss&utm_medium=rss&utm_campaign=did-ai-slop-ruin-steam-next-fest-june-2026",
+      "title": "Did AI Slop ruin Steam Next Fest June 2026?",
+      "source": "How To Market A Game (Chris Zukowski)",
+      "region": "west",
+      "category": "hot",
+      "date": "2026-07-13",
+      "date_sort": "2026-07-13T17:46:49+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/a-new-silk-road-for-video-games-and-interactive-entertainment/",
+      "title": "A new Silk Road for video games and interactive entertainment",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T14:15:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/copa-fantasy-is-finalising-a-750000-seed-round-to-accelerate-growth/",
+      "title": "Copa Fantasy finalising $750,000 seed round to accelerate growth",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T14:10:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/gamescom-2026-calls-for-stronger-political-support-for-germanys-games-industry/",
+      "title": "German trade body calls for stronger political support for Europe's games industry",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T14:00:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/former-icelandic-minister-joins-fenris-creations-to-lead-ai-partnerships/",
+      "title": "Former Icelandic minister joins Fenris Creations to lead AI partnerships",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T13:38:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/max-your-gamescom-week-with-pocket-gamer/",
+      "title": "Max your Gamescom week with Pocket Gamer",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T13:30:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/bandai-namco-sees-record-q1-while-digimon-achieves-highest-profit-ever/",
+      "title": "Bandai Namco sees record Q1 while Digimon achieves highest profit ever",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T13:30:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/mobile-games-make-66bn-in-july-as-honor-of-kings-leads-player-spending/",
+      "title": "Mobile games make $6.6bn in July as Honor of Kings leads player spending",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T13:28:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/hot-five-garena-developing-palworld-online-tripledot-acquires-supersonic-and-digimon-up-makes-79m-in-two-weeks/",
+      "title": "Hot Five: Garena developing Palworld Online, Tripledot acquires Supersonic, and Digimon Up makes $7.9m in two weeks",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T09:57:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/aptoide-returns-to-google-play-after-more-than-a-decade/",
+      "title": "Aptoide returns to Google Play after more than a decade",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T09:42:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/chinajoy-insights-ea-finalises-sales-and-our-100th-episode-week-in-mobile-games-podcast/",
+      "title": "ChinaJoy insights, EA finalises sale and our 100th episode! | Week in Mobile Games podcast",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T14:26:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/handygames-rebrands-to-thq-nordic-mobile/",
+      "title": "HandyGames rebrands to THQ Nordic Mobile",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T19:00:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/new-release-roundup-dawnfolk-my-hero-academia-united-survival-madden-nfl-27-arcade-edition-and-more/",
+      "title": "New release roundup: Dawnfolk, My Hero Academia United Survival, Madden NFL 27 Arcade Edition, and more",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T14:53:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/new-vietnam-mobile-studio-momin-games-launches/",
+      "title": "New Vietnam mobile studio Momin Games launches",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T14:39:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/funventure-secures-1m-seed-financing/",
+      "title": "FunVenture secures $1m seed financing",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T14:11:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/saudi-studio-majestic-mind-games-raises-145m/",
+      "title": "Saudi studio Majestic Mind Games raises $1.45m",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T13:48:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/game-makers-of-finlands-wilma-ramona-ikheimonen-joins-pgc-nordics-speaker-lineup/",
+      "title": "Game Makers of Finland's Wilma Ramona Ikäheimonen joins PGC Nordics speaker lineup",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T13:30:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/five-takeaways-from-chinajoy-2026/",
+      "title": "Five takeaways from ChinaJoy 2026: China goes global, AI the talk of the town, and ads and payments firms take over",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T10:30:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/nominate-the-women-we-should-celebrate-in-this-years-aurora-nordics/",
+      "title": "Nominate the women we should celebrate in this year's Aurora Nordics",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T10:00:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/netmarble-makes-5051m-in-q2-2026-with-the-seven-deadly-sins-success/",
+      "title": "Netmarble makes $505.1m in Q2 2026 with The Seven Deadly Sins success",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T17:00:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/tripledot-acquires-supersonic-from-unity-for-40m/",
+      "title": "Tripledot acquires Supersonic from Unity for $40m",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T14:30:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/devolver-digital-eyes-deal-to-take-publisher-private/",
+      "title": "Devolver Digital eyes deal to take publisher private",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T14:25:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/why-apple-arcade-offered-a-no-compromise-home-for-eas-madden-nfl-27-arcade-edition/",
+      "title": "Why Apple Arcade offered a \"no-compromise\" home for EA's Madden NFL 27 Arcade Edition",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T14:00:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/a-tale-of-two-indies-how-triband-and-midjiwan-outlasted-the-boom-bust-cycle/",
+      "title": "A tale of two indies: How Triband and Midjiwan outlasted the boom-bust cycle",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T11:00:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/nazara-to-raise-77m-from-bluetile-and-bestplay-founders-and-leadership/",
+      "title": "Nazara to raise $77m from Bluetile and BestPlay founders and leadership",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T10:35:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/nintendo-taps-mobile-apps-to-promote-fire-emblem-fortunes-weave/",
+      "title": "Nintendo taps mobile apps to promote Fire Emblem: Fortune's Weave",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T10:21:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/which-big-indie-pitch-will-you-win-this-year/",
+      "title": "Which Big Indie Pitch will you win this year?",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T10:00:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/august-2026s-movers-and-shakers/",
+      "title": "August 2026's Movers and Shakers: Nazara, Netflix, AppMagic, Cypher Games, Kabam, Lil Snack and more",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T16:26:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/why-simple-puzzle-games-keep-players-hooked-and-how-to-advertise-them/",
+      "title": "Why simple puzzle games keep players hooked and how to advertise them",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T14:30:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/eas-55bn-buyout-complete-in-deal-led-by-saudi-arabias-pif/",
+      "title": "EA’s $55bn buyout complete in deal led by Saudi Arabia’s PIF",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T14:25:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/raptor-pr-launches-egg-platform-for-early-stage-games-tech-companies/",
+      "title": "Raptor PR launches EGG platform for early stage games tech companies",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T14:20:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/why-canadas-games-industry-matters-a-proven-test-market-talent-and-tax-breaks/",
+      "title": "Why Canada’s games industry matters: A proven test market, talent and tax breaks",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T13:50:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/time-travel-rpg-reverse-1999-surpasses-1999m-players/",
+      "title": "Time travel RPG Reverse: 1999 surpasses 19.99m players",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T11:42:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/sega-and-black-white-orange-partner-to-expand-angry-birds-presence-in-india/",
+      "title": "Sega and Black White Orange partner to expand Angry Birds’ presence in India",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T10:43:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/pg-connects-uniting-the-nordics-in-helsinki-this-october-2021/",
+      "title": "PG Connects: Uniting the Nordics in Helsinki this October 20th to 21st",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T10:00:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/jars-ai-co-founders-join-robloxs-foundation-ai-team/",
+      "title": "Jars AI co-founders join Roblox’s Foundation AI team",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T16:15:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/nazara-ceo-nitish-mittersain-to-step-down-in-september/",
+      "title": "Nazara CEO Nitish Mittersain to step down in September",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T14:42:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/refactor-games-reportedly-lays-off-85-of-staff/",
+      "title": "Refactor Games reportedly lays off 85% of staff",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T14:41:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/nazara-revises-terms-to-acquire-bluetile-and-bestplay-in-all-cash-deals/",
+      "title": "Nazara revises terms to acquire Bluetile and Bestplay in all-cash deals",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T14:40:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/vfx-optimisation-in-midcore-games-commonly-overlooked-techniques-and-advanced-methods/",
+      "title": "VFX optimisation in midcore games: Commonly overlooked techniques and advanced methods",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T14:39:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/a-peek-behind-the-curtain-of-aaa-games-with-epic-games-ari-arnbjrnsson/",
+      "title": "A peek behind the curtain of triple-A games, with Epic Games' Ari Arnbjörnsson",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T14:38:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/how-ai-agents-could-impact-mobile-gaming-monetisation/",
+      "title": "How AI agents could impact mobile gaming monetisation",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T14:37:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/firstlooks-creatorsgg-platform-launches-with-a-battle-pass-model-for-streamers/",
+      "title": "FirstLook’s Creators.gg platform launches with a \"battle pass\" model for streamers",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T14:36:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/inferius-wins-the-big-indie-pitch-sponsored-by-xsolla-at-nagis-2026/",
+      "title": "INFERIUS wins the Big Indie Pitch sponsored by Xsolla at NAGIS 2026",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T11:00:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/early-bird-prices-ending-for-the-mobile-games-awards-2026/",
+      "title": "Early Bird prices ending for the Mobile Games Awards 2026",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T10:00:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/garena-is-developing-palworld-online-launching-this-year/",
+      "title": "Garena is developing Palworld Online, launching this year",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T17:05:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/roblox-revenue-rises-36-yy-but-young-north-americans-see-falling-per-hour-monetisation/",
+      "title": "Roblox revenue rises 36% Y/Y, but young North Americans see falling per-hour monetisation",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T15:21:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/reforged-labs-shuts-down-as-ceo-says-ai-is-closing-its-market-opportunity/",
+      "title": "Reforged Labs shuts down as CEO says AI is closing its market opportunity",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T14:34:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/digimon-up-makes-79m-in-player-spending-during-first-two-weeks/",
+      "title": "Digimon Up makes $7.9m in player spending during first two weeks",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T14:33:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/most-gaming-companies-arent-building-creator-platforms-theyre-building-ecosystems/",
+      "title": "Most gaming companies aren't building creator platforms - they're building ecosystems",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T14:32:00+00:00"
+    },
+    {
+      "link": "https://www.pocketgamer.biz/hot-five-palworld-10-puzzles-h1-2026-performance-and-ubisofts-mobile-net-bookings-share-almost-doubles/",
+      "title": "Hot Five: Palworld 1.0, puzzle’s H1 2026 performance, and Ubisoft’s mobile net bookings share almost doubles",
+      "source": "Pocket Gamer.biz",
+      "region": "west",
+      "category": "news",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T14:31:00+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/shipping-ore-between-the-asteroid-mining-stations-of-profits-2617-would-be-much-easier-if-it-werent-for-the-darn-space-bug-infestation",
+      "title": "Shipping ore between the asteroid mining stations of Profits 2617 would be much easier if it weren't for the darn space bug infestation",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T08:00:00+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/over-the-hill-snowrunners-hippie-off-roading-cousin-from-the-art-of-rally-devs-gets-an-october-release-date",
+      "title": "Over the Hill, SnowRunner's hippie off-roading cousin from the Art of Rally devs, gets an October release date",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T20:15:00+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/in-cosmic-roguelike-the-carcass-you-build-a-colony-inside-the-corpse-of-a-god-thats-slowly-becoming-aware-of-you",
+      "title": "In cosmic roguelike The Carcass, you build a colony inside the corpse of a god that's slowly becoming aware of you",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T17:00:00+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/someones-head-is-killing-me-in-memoirium-a-psx-styled-soulslike-about-battling-through-bizarre-dreamscapes-and-decorating-your-bedroom",
+      "title": "Someone's head is killing me in Memoirium, a PSX-styled soulslike about battling through bizarre dreamscapes and decorating your bedroom",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T15:41:17+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/expect-fake-messages-a-load-of-steam-user-personal-info-has-been-thanks-to-a-cyberattack-on-one-of-valves-partners-claims-report",
+      "title": "\"Expect fake messages\": A load of Steam user personal info has been stolen thanks to a cyberattack on one of Valve's partners, claims report",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T14:56:46+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/this-week-in-pc-games-goldeneye-returns-sort-of-plus-janky-arcade-football-ballpoint-cities-and-a-game-about-keeping-the-monsters-inside-area-51",
+      "title": "This week in PC games: GoldenEye returns (sort of), plus janky arcade football, ballpoint cities, and a game about keeping the monsters inside Area 51",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T13:42:53+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/if-you-drove-yourself-mad-building-computers-in-minecraft-pights-redstone-inspired-puzzling-is-an-affordable-palate-cleanser",
+      "title": "If you drove yourself mad building computers in Minecraft, Pight's redstone-inspired puzzling is an affordable palate cleanser",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T11:09:41+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/gothic-1-remake-devs-hint-at-next-game-while-announcing-a-photo-mode-marvin-mode-for-cheaters-and-some-mysterious-alternative-progression-systems",
+      "title": "Gothic 1 Remake devs hint at next game while announcing a photo mode, \"Marvin mode\" for cheaters, and some mysterious \"alternative progression systems\"",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T09:09:21+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/the-sunday-papers-822",
+      "title": "The Sunday Papers",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T10:00:00+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/come-for-beastfolk-barbers-cute-furry-hairdressing-but-stay-for-its-thoughtful-approach-to-worldbuilding",
+      "title": "Come for Beastfolk Barber's cute, furry hairdressing, but stay for its thoughtful approach to worldbuilding",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T21:51:32+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/danchi-days-out-this-october-brings-the-hamtaro-ham-ham-heartbreak-vibes-ive-been-desperately-craving-since-childhood",
+      "title": "Danchi Days, out this October, brings the Hamtaro: Ham-Ham Heartbreak vibes I've been desperately craving since childhood",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T20:36:44+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/polyzonia-is-an-ecosystem-sim-about-breathing-life-into-the-amazon-rainforest-until-it-can-look-after-itself",
+      "title": "Polyzonia is an ecosystem sim about breathing life into the Amazon rainforest until it can look after itself",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T18:05:43+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/big-walks-voice-chat-volume-issue-has-been-resolved-with-its-latest-patch-but-house-house-are-sticking-to-their-guns-on-its-overall-design",
+      "title": "Big Walk's voice chat volume issue has been resolved with its latest patch, but House House are sticking to their guns on its overall design",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T17:08:58+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/two-months-after-revealing-crossfire-thats-no-moon-have-seemingly-laid-off-14-members-of-staff",
+      "title": "Two months after revealing Crossfire, That's No Moon have seemingly laid off 14 members of staff",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T16:09:41+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-394",
+      "title": "What are we all playing this weekend?",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T07:01:00+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/space-news-network-is-no-mans-sky-but-youre-a-roving-journalist-blasting-bandits-while-trying-to-keep-your-subscribers-happy",
+      "title": "Space News Network is No Man's Sky but you're a roving journalist, blasting bandits while trying to keep your subscribers happy",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T17:02:00+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/machines-that-werent-game-machines-before-will-become-game-machines-take-two-ceo-predicts-that-streaming-will-help-fix-the-industrys-hardware-pricing-problem",
+      "title": "\"Machines that weren't game machines before will become game machines\": Take-Two CEO predicts that streaming will help fix the industry's hardware pricing problem",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T15:17:48+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/ideas-like-this-usually-just-die-inside-generative-ais-effect-on-modding-and-how-host-sites-struggle-to-maintain-transparency",
+      "title": "\"Ideas like this usually just die\": Inside generative AI’s effect on modding, and how host sites struggle to maintain transparency",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T13:19:46+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/credible-military-storytelling-ubisoft-announce-playtests-for-new-ghost-recon-game-alongside-a-sizeable-wildlands-update-and-a-future-soldier-giveaway",
+      "title": "\"Credible military storytelling\": Ubisoft announce playtests for new Ghost Recon game alongside a sizeable Wildlands update and a Future Soldier giveaway",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T11:15:00+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/co-op-climber-peak-finally-reaches-the-summit-with-its-last-major-update-bringing-two-foreboding-new-biomes-next-week",
+      "title": "Co-op climber Peak finally reaches the summit, with its last major update bringing two foreboding new biomes next week",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T10:44:12+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/the-makers-of-the-glorious-othercide-have-another-tactics-rpg-bloodbath-out-in-september-with-a-playtest-live-now",
+      "title": "The makers of the glorious Othercide have another tactics RPG bloodbath out in September, with a playtest live now",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T10:00:00+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/quake-gets-a-free-new-chapter-promising-ferocious-combat-labyrinthine-level-design-and-nightmarish-realms-to-celebrate-its-30th-birthday",
+      "title": "Quake gets a free new chapter promising \"ferocious combat, labyrinthine level design, and nightmarish realms\" to celebrate its 30th birthday",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T09:21:05+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/arise-dark-lord-is-an-action-rts-hybrid-styled-like-a-lord-of-the-rings-map-where-you-raise-an-army-of-the-undead-to-kill-all-humans",
+      "title": "Arise Dark Lord is an action-RTS hybrid styled like a Lord of the Rings map where you raise an army of the undead to kill all humans",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T21:57:56+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/repair-sick-robots-and-contemplate-the-role-of-healthcare-providers-in-the-deeply-textured-pixel-art-cyberpunk-visual-novel-all-our-broken-parts",
+      "title": "Repair sick robots and contemplate the role of healthcare providers in the deeply textured, pixel art, cyberpunk visual novel All Our Broken Parts",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T20:43:16+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/after-a-successful-first-week-mistfall-hunter-gets-a-roadmap-promising-a-much-requested-solo-mode-for-one-of-its-maps",
+      "title": "After a successful first week, Mistfall Hunter gets a roadmap promising a much requested solo mode for one of its maps",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T18:03:56+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/moonlighter-2-the-endless-vault-gets-a-10-date-and-demo-as-the-original-goes-temporarily-free",
+      "title": "Moonlighter 2: The Endless Vault gets a 1.0 date and demo as the original goes temporarily free",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T17:15:32+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/fields-of-mistria-enters-10-with-a-delightful-retro-anime-trailer-and-a-promise-of-more-to-come",
+      "title": "Fields of Mistria enters 1.0 with a delightful, retro anime trailer and a promise of more to come",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T16:31:47+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/marble-souls-dares-to-ask-what-would-happen-if-the-bloke-from-dark-souls-got-stuck-in-a-physics-driven-ball-and-its-out-this-year",
+      "title": "Marble Souls dares to ask what would happen if the bloke from Dark Souls got stuck in a physics-driven ball, and it's out this year",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T16:03:04+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/fear-not-samurai-masochists-onimusha-way-of-the-swords-flashiness-hasnt-replaced-its-challenge",
+      "title": "Fear not, samurai masochists, Onimusha: Way of the Sword's flashiness hasn't replaced its challenge",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T15:00:00+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/helldivers-2-getting-an-upgraded-level-cap-probably-isnt-what-that-spooky-teddy-bear-teaser-was-about-but-is-almost-definitely-in-preparation-for-it",
+      "title": "Helldivers 2 getting an upgraded level cap probably isn't what that spooky teddy bear teaser was about, but is almost definitely in preparation for it",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T14:34:50+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/big-walk-simulates-the-strange-childlike-sensation-of-being-unexpectedly-separated-from-your-friends-and-the-joy-and-relief-of-finding-your-way-back",
+      "title": "Big Walk simulates the strange, childlike sensation of being unexpectedly separated from your friends, and the joy and relief of finding your way back",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T12:57:19+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/roblox-causes-wall-street-value-estimators-to-cry-themselves-a-9-billion-puddle-as-a-result-of-pushing-less-kids-towards-aggressively-monetised-viral-games",
+      "title": "Roblox causes Wall Street value estimators to cry themselves a $9 billion puddle, as a result of pushing less kids towards aggressively monetised viral games",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T12:08:13+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/halo-studios-seemingly-cut-staff-after-halo-campaign-evolved-launch-including-a-6-year-veteran-producer",
+      "title": "Halo Studios seemingly cut staff after Halo: Campaign Evolved launch, including a 6-year veteran producer",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T10:46:34+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/the-three-biggest-ram-makers-have-already-sold-all-their-2027-output-report-says-potentially-stretching-price-woes-into-2028",
+      "title": "The three biggest RAM makers have already sold all their 2027 output, report says, potentially stretching price woes into 2028",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T10:20:04+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/just-in-time-for-pre-songs-of-the-past-dlc-refreshers-witcher-3-modders-have-restored-a-cut-menu-which-lets-you-watch-story-recaps-at-any-time",
+      "title": "Just in time for pre-Songs of the Past DLC refreshers, Witcher 3 modders have restored a cut menu which lets you watch story recaps at any time",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T09:43:48+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/believable-and-consistent-up-close-what-the-dinosaurs-of-the-lost-wild-share-with-microsofts-cancelled-everwild-according-to-the-designer-who-worked-on-both",
+      "title": "\"Believable and consistent up close\": What the dinosaurs of The Lost Wild share with Microsoft’s cancelled Everwild, according to the designer who worked on both",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T16:18:24+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/even-after-200-hours-marathons-greatest-secret-is-still-deciphering-the-rhythms-of-rival-players",
+      "title": "Even after 200 hours, Marathon's greatest secret is still deciphering the rhythms of rival players",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T15:39:07+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/tell-a-whole-town-what-to-believe-in-static-hour-a-rolodex-flipping-newsroom-thriller-about-investigating-a-strange-epidemic-of-violence",
+      "title": "Tell a whole town what to believe in Static Hour, a rolodex-flipping newsroom thriller about investigating a strange epidemic of violence",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T14:54:53+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/beast-of-reincarnation-is-getting-some-story-pacing-improvements-in-its-first-patch-as-part-of-ongoing-adjustments-from-game-freak",
+      "title": "Beast of Reincarnation is getting some \"story pacing improvements\" in its first patch, as part of \"ongoing adjustments\" from Game Freak",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T13:45:17+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/i-like-being-king-of-some-weird-and-sexy-knights-in-fantasy-rpg-sovereign-tower-but-im-not-convinced-the-time-travel-element-is-my-cup-of-spiderwine",
+      "title": "I like being king of some weird and sexy knights in fantasy RPG Sovereign Tower, but I'm not convinced the time travel element is my cup of spiderwine",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T13:00:00+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/beast-of-reincarnation-review",
+      "title": "Beast Of Reincarnation review: A briefly fun Sekiro-like that becomes chewing gum for the brain",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T11:54:55+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/eas-saudi-takeover-will-be-a-real-waste-if-it-turns-the-publishers-into-a-sequel-and-mega-franchise-machine-helldivers-2-studio-boss-says",
+      "title": "EA’s Saudi takeover will be \"a real waste\" if it turns the publishers into a \"sequel-and-mega-franchise machine\", Helldivers 2 studio boss says",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T11:17:25+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/if-quantic-dream-wants-to-destroy-jobs-it-must-pay-french-union-call-strike-as-they-demand-extension-to-layoff-negotiations-with-star-wars-eclipse-studio",
+      "title": "\"If Quantic Dream wants to destroy jobs, it must pay\": French union call strike as they demand extension to layoff negotiations with Star Wars Eclipse studio",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T10:00:00+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/big-walk-isnt-an-open-world-hangout-sim-its-a-secret-predator-game-or-it-would-be-if-house-house-would-quit-fixing-the-voice-volume",
+      "title": "Big Walk isn't an open world hangout sim, it's a secret Predator game, or it would be if House House would quit fixing the voice volume",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T09:25:20+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/ea-have-gone-private-as-saudi-arabia-and-jared-kushners-investment-groups-complete-their-55-billion-acquisition",
+      "title": "EA have gone private, as Saudi Arabia and Jared Kushner's investment groups complete their $55 billion acquisition",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T21:56:53+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/almost-10000-people-have-played-baldurs-gate-3-in-a-portrait-aspect-ratio-so-join-me-in-figuring-out-why-theyd-commit-such-sacrilege",
+      "title": "Almost 10,000 people have played Baldur's Gate 3 in a portrait aspect ratio, so join me in figuring out why they'd commit such sacrilege",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T20:31:26+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/the-demo-for-500-finger-fillet-taught-me-that-none-of-you-should-let-me-anywhere-near-a-kitchen-knife-also-can-someone-call-a-doctor",
+      "title": "The demo for 500 FINGER FILLET taught me that none of you should let me anywhere near a kitchen knife, also can someone call a doctor",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T18:12:32+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/this-game-costs-200-dollars-is-a-game-that-really-does-cost-200-doesnt-look-very-good-and-almost-made-its-dev-13-million",
+      "title": "This Game Costs 200 Dollars is a game that really does cost $200, doesn't look very good, and almost made its dev $1.3 million",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T17:15:52+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/sci-fi-mmo-cinder-city-is-getting-a-pre-alpha-playtest-later-this-month-so-you-can-put-its-ram-hogging-requirements-to-the-test",
+      "title": "Sci-fi MMO Cinder City is getting a pre-alpha playtest later this month so you can put its RAM hogging requirements to the test",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T16:23:04+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/is-8gb-vram-enough-for-a-graphics-card-in-2026-yes-but-gpu-makers-should-still-try-harder",
+      "title": "Is 8GB VRAM enough for a graphics card in 2026? Yes, but GPU makers should still try harder",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T15:07:03+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/13th-century-mongolian-courier-sim-the-legend-of-khiimori-becomes-a-battle-against-supernatural-poison-of-the-earth-spirit-with-its-corruption-update",
+      "title": "13th century Mongolian courier sim The Legend of Khiimori becomes a battle against supernatural \"poison of the earth spirit\" with its Corruption Update",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T14:00:00+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/hooded-horses-watery-4x-sequel-endless-legend-2-gets-a-10-launch-date-and-a-new-faction-of-terraforming-desert-dwellers",
+      "title": "Hooded Horse's watery 4X sequel Endless Legend 2 gets a 1.0 launch date and a new faction of terraforming desert dwellers",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T13:00:23+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/assassins-creed-black-flag-resynceds-kraken-wheel-will-no-longer-be-wheely-expensive-following-the-latest-update-which-will-also-teach-you-how-to-throw-cash",
+      "title": "Assassins Creed Black Flag Resynced's Kraken wheel will no longer be \"wheely expensive\" following the latest update, which will also teach you how to throw cash",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T10:48:04+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/microsoft-will-let-devs-bring-more-xbox-360-games-to-pc-in-the-coming-years-via-backwards-compatibility-leaked-document-suggests",
+      "title": "Microsoft will let devs bring more Xbox 360 games to PC in the coming years via backwards compatibility, leaked document suggests",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T09:27:51+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/samsung-whove-been-accused-of-worsening-the-ram-crisis-via-price-fixing-reckon-components-will-only-get-more-expensive-in-2027",
+      "title": "Samsung, who've been accused of worsening the RAM crisis via price fixing, reckon components will only get more expensive in 2027",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T16:22:35+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/tongue-your-friends-in-big-hops-together-the-froggy-platformers-new-eight-player-co-op-update-which-was-inspired-by-mario-mods",
+      "title": "Tongue your friends in Big Hops Together, the froggy platformer's new eight player co-op update, which was inspired by Mario mods",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T16:19:55+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/capcom-are-reworking-dragons-dogma-2s-infamous-dragonsplague-so-you-can-enjoy-the-strategic-decisions-we-originally-envisioned-for-it",
+      "title": "Capcom are reworking Dragon’s Dogma 2's infamous Dragonsplague so you can \"enjoy the strategic decisions we originally envisioned\" for it",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T15:43:40+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/fantasy-rts-flow-of-war-is-an-immediately-moreish-blend-of-worker-herding-fortress-building-and-90s-style-visuals",
+      "title": "Fantasy RTS Flow of War is an immediately moreish blend of worker herding, fortress building, and 90s-style visuals",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T15:00:00+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/amd-graphics-card-price-hikes-are-reportedly-following-nvidias-as-the-ai-fuelled-ram-shortage-continues-to-set-wallets-alight",
+      "title": "AMD graphics card price hikes are reportedly following Nvidia's, as the AI-fuelled RAM shortage continues to set wallets alight",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T14:27:04+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/the-soulslike-genre-has-grown-stale-after-elden-ring-and-only-fromsoftware-can-take-it-to-strange-new-places",
+      "title": "The Soulslike genre has grown stale after Elden Ring, and only FromSoftware can take it to strange new places",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T12:59:49+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/making-baldurs-gate-4-would-be-a-great-challenge-for-rogue-trader-devs-owlcat-co-founder-says-as-the-studio-reiterate-their-commitment-to-crpgs",
+      "title": "Making Baldur’s Gate 4 would be \"a great challenge\" for Rogue Trader devs Owlcat, co-founder says, as the studio reiterate their commitment to CRPGs",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T11:52:09+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/this-week-in-pc-games-beast-of-reincarnation-big-walk-and-marvel-tokon-plus-a-round-table-rpg-some-flammable-robots-and-a-flock-of-lovestruck-pigeons",
+      "title": "This week in PC games: Beast of Reincarnation, Big Walk, and Marvel Tōkon, plus a round table RPG, some flammable robots, and a flock of lovestruck pigeons",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T10:48:17+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/american-truck-simulator-trundles-off-to-a-land-of-enchanted-highways-and-giant-bovines-with-a-freshly-announced-north-dakota-expansion",
+      "title": "American Truck Simulator trundles off to a land of enchanted highways and giant bovines with a freshly announced North Dakota expansion",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T09:26:03+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/the-sunday-papers-821",
+      "title": "The Sunday Papers",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-02",
+      "date_sort": "2026-08-02T06:13:39+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/manage-a-cafe-by-day-go-to-bed-and-fight-in-your-dreams-in-a-world-without-sleep-by-night-in-hips-n-noses",
+      "title": "Manage a cafe by day, go to bed and fight in your dreams in a world without sleep by night in Hips N Noses",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-01",
+      "date_sort": "2026-08-01T21:53:20+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/silent-hill-townfalls-devs-say-theyre-purposefully-playing-against-your-nostalgic-tech-feelings-but-im-not-sure-itll-work-on-me",
+      "title": "Silent Hill: Townfall's devs say they're purposefully playing against your nostalgic tech feelings, but I'm not sure it'll work on me",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-01",
+      "date_sort": "2026-08-01T20:35:12+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/crimson-deserts-latest-patch-is-good-news-for-all-you-moneygrubs-as-it-adds-in-a-bounty-of-new-trading-posts-and-goods-to-pawn-off",
+      "title": "Crimson Desert's latest patch is good news for all you moneygrubs, as it adds in a bounty of new trading posts and goods to pawn off",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-01",
+      "date_sort": "2026-08-01T18:05:29+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/got-a-spare-10-net-yourself-almost-150-games-and-help-support-laid-off-game-devs-with-the-game-industry-hardship-fund-bundle",
+      "title": "Got a spare $10? Net yourself almost 150 games and help support laid off game devs with the game industry hardship fund bundle",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-01",
+      "date_sort": "2026-08-01T17:01:19+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/i-sense-immense-expectations-final-fantasy-7-revelations-director-on-ending-the-remake-trilogy-and-dlc",
+      "title": "\"I sense immense expectations\": Final Fantasy 7 Revelation's director on ending the remake trilogy and DLC",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-01",
+      "date_sort": "2026-08-01T16:10:39+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/what-if-stop-killing-games-win-anthem-spacecraft-and-warframe-devs-on-the-massive-undertaking-of-reverse-engineering-an-always-online-game",
+      "title": "What if Stop Killing Games win? Anthem, SpaceCraft and Warframe devs on the \"massive undertaking\" of preserving an always-online game",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-01",
+      "date_sort": "2026-08-01T13:04:59+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-393",
+      "title": "What are we all playing this weekend?",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-01",
+      "date_sort": "2026-08-01T07:01:00+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/all-the-rps-supporter-rewards-for-july-2026-space-battles-messy-desks-and-puzzling-dreams",
+      "title": "All the RPS Supporter rewards for July 2026: space battles, messy desks, and puzzling dreams",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-31",
+      "date_sort": "2026-07-31T17:31:36+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/massive-fallout-new-vegas-mod-fallout-new-california-hits-gog-offering-another-way-to-get-some-proper-story-driven-fallout-in-your-belly",
+      "title": "Massive Fallout: New Vegas mod Fallout: New California hits GOG, offering another way to get some \"proper, story-driven Fallout\" in your belly",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-31",
+      "date_sort": "2026-07-31T16:12:02+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/nexus-mods-update-their-generative-ai-made-mod-tagging-policy-dividing-one-label-into-three-for-more-specific-search-filtering",
+      "title": "Nexus Mods update their generative AI-made mod tagging policy, dividing one label into three for more specific search filtering",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-31",
+      "date_sort": "2026-07-31T15:18:18+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/20-years-ago-dead-rising-showed-a-different-path-for-open-worlds-and-more-games-should-pinch-its-ideas",
+      "title": "20 years ago, Dead Rising showed a different path for open worlds, and more games should pinch its ideas",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-31",
+      "date_sort": "2026-07-31T13:00:00+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/ea-expect-their-55-billion-sale-to-saudi-arabia-and-private-equity-firms-to-close-next-week-with-all-regulatory-approvals-required-in-place",
+      "title": "EA expect their $55 billion sale to Saudi Arabia and private equity firms to close next week, with \"all regulatory approvals required\" in place",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-31",
+      "date_sort": "2026-07-31T09:52:45+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/a-former-assassins-creed-dev-is-making-a-ghost-hunting-horror-mystery-based-on-visits-to-abandoned-convents-in-which-your-greatest-weapon-is-a-chunky-instant-camera",
+      "title": "A former Assassin's Creed dev is making a ghost-hunting horror mystery based on visits to abandoned convents, in which your greatest weapon is a chunky instant camera",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-31",
+      "date_sort": "2026-07-31T09:27:37+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/midnight-moments-is-a-cyberpunk-diorama-builder-for-the-neon-sign-and-drizzly-rain-lovers",
+      "title": "Midnight Moments is a cyberpunk diorama builder for the neon sign and drizzly rain lovers",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-30",
+      "date_sort": "2026-07-30T21:52:19+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/rideshare-stimulator-is-an-uber-driver-sim-set-in-a-city-full-of-weirdos-that-im-hoping-is-satirical-enough-to-pull-the-concept-off",
+      "title": "Rideshare \"Stimulator\" is an Uber driver sim set in a city full of weirdos that I'm hoping is satirical enough to pull the concept off",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-30",
+      "date_sort": "2026-07-30T20:30:52+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/machine-party-out-now-is-masochistic-mario-party-from-the-dev-that-brought-you-buckshot-roulette",
+      "title": "Machine Party, out now, is masochistic Mario Party from the dev that brought you Buckshot Roulette",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-30",
+      "date_sort": "2026-07-30T19:01:10+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/runescape-dragonwilds-revamps-the-agility-skill-and-gives-you-wipeout-style-courses-to-test-your-mettle-on",
+      "title": "RuneScape: Dragonwilds revamps the agility skill and gives you Wipeout style courses to test your mettle on",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-30",
+      "date_sort": "2026-07-30T17:04:11+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/thimbleweed-park-2-is-not-really-a-sequel-not-really-a-prequel-but-it-is-in-development-and-due-out-in-2028",
+      "title": "Thimbleweed Park 2 is \"not really a sequel, not really a prequel,\" but it is in development and due out in 2028",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-30",
+      "date_sort": "2026-07-30T16:04:49+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/your-most-powerful-necron-unit-in-dawn-of-war-4-is-a-sentient-shard-of-a-dead-star-god-and-boy-does-he-hate-you",
+      "title": "Your most powerful Necron unit in Dawn of War 4 is a sentient shard of a dead star god, and boy does he hate you",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-30",
+      "date_sort": "2026-07-30T15:00:00+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/helldivers-2s-warhammer-40k-warbond-finally-gets-a-release-date-will-let-you-bust-out-the-meltaguns-and-meltamines",
+      "title": "Helldivers 2's Warhammer 40k warbond finally gets a release date, will let you bust out the meltaguns and meltamines",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-30",
+      "date_sort": "2026-07-30T14:26:57+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/to-escalate-its-relationship-straining-putting-contests-golf-with-your-friends-2-is-turning-to-chaos-and-custom-courses",
+      "title": "To escalate its relationship-straining putting contests, Golf With Your Friends 2 is turning to chaos and custom courses",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-30",
+      "date_sort": "2026-07-30T13:59:05+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/halo-on-helium-has-arrived-less-than-a-week-after-modders-got-their-hands-on-campaign-evolved-just-in-case-you-prefer-chipmunked-chief-and-cortana",
+      "title": "Halo on helium has arrived less than a week after modders got their hands on Campaign Evolved, though AI might've been used to chipmunk Chief and Cortana",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-30",
+      "date_sort": "2026-07-30T12:13:29+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/our-business-did-not-grow-with-our-audience-post-layoffs-xbox-execs-are-trying-to-sell-a-gaming-division-bounce-back-by-summer-2027",
+      "title": "\"Our business did not grow with our audience\": post-layoffs, Xbox execs are trying to sell a gaming division bounce back by summer 2027",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-30",
+      "date_sort": "2026-07-30T10:44:48+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/beamngdrive-steams-finest-car-pancake-maker-gets-its-biggest-update-yet-with-overhauled-graphics-fresh-rally-stages-and-a-sporty-new-coupe",
+      "title": "BeamNG.drive, Steam's finest car pancake maker, gets its biggest update yet with overhauled graphics, fresh rally stages and a sporty new coupe",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-30",
+      "date_sort": "2026-07-30T09:41:43+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/roguelite-strategy-spinoff-company-of-heroes-3-final-stand-breathes-fresh-live-into-some-of-the-series-oldest-features",
+      "title": "I'm not going to 100% roguelite strategy spinoff Company of Heroes 3: Final Stand, but it does breathe new life into some of the series' oldest features",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-29",
+      "date_sort": "2026-07-29T17:00:00+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/stealth-and-armour-placement-rule-supreme-in-tyr-the-new-tank-shooter-from-former-destiny-and-valorant-devs-with-a-public-playtest-now-live",
+      "title": "Stealth and armour placement rule supreme in Tyr, the new tank shooter from former Destiny and Valorant devs, with a public playtest now live",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-29",
+      "date_sort": "2026-07-29T16:00:17+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/the-case-of-the-golden-idol-style-deduction-meets-the-x-files-former-bioware-devs-unveil-supernatural-detective-game-the-eventide",
+      "title": "\"The Case of the Golden Idol-style deduction meets The X-Files\": Former BioWare devs unveil supernatural detective game The Eventide",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-29",
+      "date_sort": "2026-07-29T15:00:07+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/krafton-have-big-plans-for-subnautica-after-the-second-games-once-divisive-co-op-confirmed-the-potential-to-expand-beyond-the-existing-fan-base",
+      "title": "Krafton have big plans for Subnautica, after the second game's once-divisive co-op \"confirmed the potential to expand beyond the existing fan base\"",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-29",
+      "date_sort": "2026-07-29T13:18:54+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/serve-refreshments-and-spot-demons-in-night-plane-a-psx-style-horror-job-sim-about-being-a-flight-attendant-in-1999",
+      "title": "Serve refreshments and spot demons in Night Plane, a PSX-style horror job sim about being a flight attendant in 1999",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-29",
+      "date_sort": "2026-07-29T11:38:32+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/wuchang-fallen-feathers-sequel-in-the-works-from-original-directors-new-studio-which-bears-the-wonderful-name-indolphinity",
+      "title": "Wuchang: Fallen Feathers sequel in the works from original director's new studio, which bears the wonderful name Indolphinity",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-29",
+      "date_sort": "2026-07-29T11:01:30+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/dragon-age-origins-wasnt-the-most-attractive-game-biowares-old-series-producer-still-thinks-a-da-remaster-trilogy-is-worth-it-but-the-knowhow-isnt-there",
+      "title": "\"Dragon Age: Origins wasn’t the most attractive game\": BioWare's old series producer still thinks a DA remaster trilogy is worth it, but the knowhow isn't there",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-29",
+      "date_sort": "2026-07-29T10:30:00+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/gta-online-in-game-gambling-reportedly-blocked-in-australia-leaving-folks-down-under-locked-out-of-diamond-casino-games",
+      "title": "GTA Online in-game gambling reportedly blocked in Australia, leaving folks down under locked out of Diamond Casino games",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-29",
+      "date_sort": "2026-07-29T10:04:25+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/i-genuinely-think-theres-awesome-potential-mike-bithell-on-his-im-slim-vampirium-1997-and-the-power-of-quick-verbs",
+      "title": "\"I genuinely think there's awesome potential\": Mike Bithell on his \"im-slim\" Vampirium: 1997 and the power of quick verbs",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-28",
+      "date_sort": "2026-07-28T21:55:54+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/after-gaining-independence-from-xbox-double-fine-are-laying-off-a-quarter-of-their-staff",
+      "title": "After gaining independence from Xbox, Double Fine are laying off a quarter of their staff",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-28",
+      "date_sort": "2026-07-28T20:24:44+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/inviting-beaches-and-delightful-physics-await-you-in-literal-sandbox-game-sandcastle",
+      "title": "Inviting beaches and delightful physics await you in literal sandbox game, Sandcastle",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-28",
+      "date_sort": "2026-07-28T18:02:35+00:00"
+    },
+    {
+      "link": "https://www.rockpapershotgun.com/two-years-on-from-taking-the-role-wizards-of-the-coasts-president-is-stepping-down",
+      "title": "Two years on from taking the role, Wizards of the Coast's president is stepping down",
+      "source": "Rock Paper Shotgun",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-28",
+      "date_sort": "2026-07-28T17:01:21+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/1666-amsterdam-impressions-patrice-desilets",
+      "title": "I've seen much more of 1666: Amsterdam, and the witchy game by the creator of Assassin's Creed has some surprising ideas",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T16:02:55+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/amsterdam-1666-early-access-release-date",
+      "title": "Assassin's Creed creator's dark and witchy action game 1666: Amsterdam is out in early access sooner than we expected",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T16:02:09+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/id-software-slams-xbox-interview-impossible-aaa-games",
+      "title": "\"They don't understand art\" - id Software lead slams Xbox, says it's \"impossible\" to make games like 2016's Doom now",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T15:27:43+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/sean-murray-hello-games-reflects-10-years-no-mans-sky",
+      "title": "Sean Murray reflects on 10 years of No Man's Sky, its future, and why Hello Games' \"redemption arc\" narrative \"isn't really the story\" of the developer",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T13:34:41+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/marvel-tokon-pc-problems-strange-fixes",
+      "title": "As developer Arc System Works promises a fix, Marvel Tōkon's suffering PC players are creating some bizarre home remedies for its dire performance woes",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T13:34:28+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/no-mans-sky-boss-sean-murray-updates-on-light-no-fire",
+      "title": "Sean Murray suggests No Man's Sky follow-up Light No Fire is quite far along, but he's 'learned a very important lesson' about speaking too soon",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T13:34:01+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/valve-steam-machine-controller-europe-logistics-partner-hack",
+      "title": "Valve issues warning to Steam Machine and Steam Controller customers to \"expect fake messages\" after its European hardware partner is hacked",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T12:25:20+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/the-division-resurgence-steam-release-user-reviews",
+      "title": "The Division Resurgence, the free-to-play mobile off-shoot, is now on Steam and players are confused and a little miffed",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T11:41:23+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/take-two-boss-gta-6-netflix-trailer",
+      "title": "\"I'm sure you're going to watch it because everyone is\" - GTA 6 premiering on Netflix represents Rockstar \"trying new things\", says Take-Two boss",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T10:22:30+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/the-duskbloods-check-network-test-access",
+      "title": "You can now check if you've been selected for The Duskbloods network test - here's how",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T09:33:03+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/blizzard-is-microsofts-top-performing-studio-thanks-largely-to-diablo-4-and-overwatch",
+      "title": "Blizzard is Microsoft's \"top performing\" studio, thanks largely to Diablo 4 and Overwatch",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T09:07:11+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/xbox-store-pc-australia-age-verification-r18-games",
+      "title": "Xbox now requires Australians to prove their age to access games rated 18+, though \"games you already own won't be affected\"",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T08:27:25+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/steam-deck-ps5-streaming-app-asobi",
+      "title": "You can now stream PS Plus games to Steam Deck without owning a PS5 - and without buying a PS Portal",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T16:16:25+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/battlefield-6-steam-refund-rush-mode",
+      "title": "Steam reportedly refunds Battlefield 6 player with 470 hours logged after EA quietly pulled Rush mode from Quickplay",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T15:28:46+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/lies-of-p-studio-next-game-tease",
+      "title": "New Lies of P documentary teases next game \"is going to be really fun and emotionally moving\"",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T14:42:18+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/peak-final-major-update",
+      "title": "Peak gets its final major update and a \"new secret for you to discover\" next week",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T12:07:48+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/toem-2-release-date",
+      "title": "Acclaimed photography puzzler sequel Toem 2 gets a release date",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T10:33:59+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/revisiting-the-original-no-mans-sky-10-years-on",
+      "title": "Revisiting the original No Man's Sky, 10 years on - and why it was always good in its own way",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T09:00:00+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/br1-infinite-extraction-pays-for-kills",
+      "title": "Extraction shooter BR1 Infinite is paying players for every in-game kill, drawing concerns about gambling and cheating",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T16:56:11+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/final-fantasy-y-revelation-gamescom-new-look",
+      "title": "Get a \"new look\" at Final Fantasy 7 Revelation at Gamescom's Opening Night Live",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T16:09:42+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/silent-hill-2-remake-performance-mode-bugs",
+      "title": "Konami investigating Silent Hill 2 Performance Mode issues after latest PS5 patch",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T11:20:31+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/demons-souls-cut-first-person-mode",
+      "title": "Newly discovered Demon's Souls prototype footage reveals a scrapped first-person mode",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T10:45:14+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/club-soko-impressions-cartoonishly-dark-sokoban-puzzle-game",
+      "title": "Club Soko is cartoonishly dark and splattered with beer - and it's a wonderful puzzler, too",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T09:20:57+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/stalker-2-cost-of-hope-dlc-showcase",
+      "title": "Stalker 2 is finally letting us explore the Chornobyl Power Plant",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T09:01:21+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/what-weve-been-playing-ive-wanted-to-go-to-demon-school-for-a-while",
+      "title": "What we've been playing - \"I've wanted to go to demon school for a while\"",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T07:00:00+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/take-two-strauss-zelnick-not-concerned-rockstar-union-busting-gta-6",
+      "title": "Take-Two boss \"not in the least\" concerned bad press around Rockstar's employment tribunal will affect GTA 6 launch",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T16:22:27+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/sam-neill-legend-of-zelda-film",
+      "title": "The late Sam Neill will reportedly feature in The Legend of Zelda film, making it very probably the actor's final on-screen role",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T14:48:41+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/devolver-digital-goes-private",
+      "title": "Indie game publisher Devolver Digital wants to go private",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T14:36:16+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/strauss-zelnick-take-two-streaming-gta-6",
+      "title": "We'll all be streaming our games in about \"three years\", says Take-Two boss, raising some post-release questions about GTA 6",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T14:35:00+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/take-two-stock-digital-gta6-physical",
+      "title": "As GTA 6 publisher Take-Two revises its 2027 net bookings up to $8.2bn, Strauss Zelnick confirms its sales are \"well over 90% digital\"",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T13:33:56+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/gears-of-war-multiplayer-beta-popular-steam",
+      "title": "Gears of War: E-Day multiplayer beta blows past series' records on Steam",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T13:10:07+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/ps5-boxes-labels-physical-media-2028",
+      "title": "Sony appears to be putting labels on PS5 console boxes to warn people it's ending disc production",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T12:01:00+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/john-romero-doom-id-software-taiwanese-pirates",
+      "title": "Doom creator id Software used Taiwanese pirates to help distribute the game, John Romero reveals",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T12:00:44+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/marvel-tokon-fighting-souls-pc-problems-stuttering-lag",
+      "title": "Marvel Tokon: Fighting Souls suffers from widespread PC issues at launch",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T11:35:35+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/quake-expansion-dawn-of-the-machine-quakecon",
+      "title": "Surprise! The original Quake gets a free expansion on all platforms to celebrate its 30th birthday",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T09:28:09+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/andrew-ceo-real-pay-chart-77-million",
+      "title": "EA CEO Andrew Wilson's 2026 pay may have been much larger than previously thought",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T09:12:44+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/archive-of-retro-computing-showcase-2026-south-london-preview",
+      "title": "\"There's a huge amount to be learned\" - how the pioneering years of gaming are being preserved for a new generation in a corner of south London",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-07",
+      "date_sort": "2026-08-07T09:00:00+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/marvel-tokon-deadpool-references",
+      "title": "How many fun little references has Arc System Works snuck into Deadpool's move list in Marvel Tokon? Too many to count, it seems",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T15:58:32+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/guild-wars-3-more-playable-races-blog-post",
+      "title": "More playable species might be coming to Guild Wars 3 later down the line, according to latest developer blog post",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T15:16:58+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/baldurs-gate-3-third-anniversary-statistics",
+      "title": "Baldur's Gate 3 third anniversary stats reveal most killed NPCs, most used weapons, and Dark Urge players aren't the most murderous playing the game",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T14:47:39+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/ps5-fimrware-update-beta-ps5-pro-pssr-2-0",
+      "title": "A new PS5 firmware beta update is here, and it's good news for PS5 Pro owners",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T14:07:34+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/monster-hunter-wilds-surpass-worlds-price-ascendance-demo",
+      "title": "A generous demo, a big expansion, and \"pricing measures\": What Capcom is doing to get Monster Hunter Wilds' sales to \"surpass\" Monster Hunter World",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T13:28:16+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/pokemon-pokopia-version-bubbly-basin-patch-notes",
+      "title": "Pokémon Pokopia's free 2.0 update is here, and it's making a splash with new underwater features and improvements",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T12:39:01+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/call-of-duty-black-ops-1-and-2-playstation-ports-sales",
+      "title": "The Call of Duty: Black Ops 1&2 PS4 and PS5 ports sold more than 11 million copies in under a month",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T12:20:42+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/gta-6-extended-look-trailer-netflix-announcement",
+      "title": "We're getting an \"extended look\" at Grand Theft Auto 6 on 27th August",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T12:13:50+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/capcom-playstation-discless-90-percent-digital",
+      "title": "Capcom shrugs off PlayStation's all-digital future, suggests shrinking physical market will not have a \"significant impact\" on its operations",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T11:31:23+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/roblox-major-decline-second-quarter-earnings-2026",
+      "title": "Roblox's string of bad luck persists as player numbers continue to plummet and the company's stock price with it",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T11:03:05+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/ill-horror-game-team-clout-half-life-2",
+      "title": "Getting Ill: Understanding the grossest horror game in development and how it takes more than a few cues from Valve's seminal shooter Half-Life 2",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T09:08:12+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/halo-studios-layoffs-campaign-evolved",
+      "title": "Halo Studios hit by layoffs after release of Halo: Campaign Evolved",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T09:08:08+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/minecraft-switch-2-release-date-upgrade-path",
+      "title": "Minecraft finally has a Switch 2 release date, but there may be bad news for Switch 1 owners",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T08:57:15+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/diablo-4-switch-2-release-date-price-leak-code-in-box",
+      "title": "Diablo 4 may finally arrive on Switch 2 next month as a code-in-the-box physical version, according to reliable leaker",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-06",
+      "date_sort": "2026-08-06T08:15:22+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/gears-of-war-e-day-weekend-beta-pvp-versus",
+      "title": "Gears of War: E-Day's upcoming weekend beta suddenly gets PvP due to fan demand",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T15:30:40+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/beast-of-reincarnation-patches-story-pacing-fixes",
+      "title": "\"We take your feedback to heart\" - Game Freak promises to improve Beast of Reincarnation following a divisive launch",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T13:46:32+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/assassins-creed-valhala-director-eric-baptizat-returns",
+      "title": "Assassin's Creed Valhalla director makes sudden return to Ubisoft, and will lead the series moving forward",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T13:29:33+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/diablo-4-season-15-update-rebirth",
+      "title": "Diablo 4 players have long wanted to bring their Eternal characters into the Seasonal realm, and now they're getting their wish, sort of",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T12:40:20+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/marvel-rivals-file-size-reduction-pc-xbox-playstation",
+      "title": "Marvel Rivals' next update drastically reduces the game's install size on PC and console",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T11:28:58+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/arctic-cooling-us-tariff-refunds-lower-prices",
+      "title": "A PC cooling company shows Sony and Nintendo how it's done, as it pledges to pass US tariff refunds onto customers",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T11:16:50+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/xbox-game-pass-lineup-august-2026",
+      "title": "There are a few gooduns in August's Xbox Game Pass line-up, including a surprisingly sexy, and funny, furniture dating sim",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T09:49:40+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/ea-aquisition-55-complete-saudi-arabia-jared-kushner-private",
+      "title": "\"Mass layoffs\" expected at EA, as $55bn buyout by Saudi Arabia's PIF and Donald Trump's son-in-law officially goes through",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T09:06:53+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/resident-evil-veronica-2-million-wishlists",
+      "title": "Resident Evil Veronica remake already proving popular for Capcom, as wishlists reach an impressive milestone",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-05",
+      "date_sort": "2026-08-05T08:31:45+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/indie-game-anti-rage-quit-window",
+      "title": "Sick of rage quitters? This indie dev has created a very funny answer to those inclined to tilt (and turn)",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T15:24:36+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/final-fantasy-14-switch-2-space-free-trial",
+      "title": "You can try the newly-launched Switch 2 port of Final Fantasy 14 for free, right now, if you have a spare 117GB",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T13:46:04+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/fifa-world-cup-game-layoffs",
+      "title": "The developer behind Fifa World Cup - which launched less than two months ago - has laid off 85% of its staff",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T13:23:57+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-patch-1-0-6-hide-blowpipe",
+      "title": "Assassin's Creed Black Flag Resynced patch makes the very important change of letting you hide Edward's blowpipe",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T13:15:18+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/unannounced-elder-scrolls-game-rumours-debunked",
+      "title": "Rumours of an unannounced Elder Scrolls game are bogus, sadly",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T12:06:15+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/call-of-duty-black-ops-2-prestige-hacks-account-banned-message",
+      "title": "Don't be alarmed if you get an 'account banned' message in Call of Duty: Black Ops 2 on PS4 or PS5, you may not actually be banned",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T11:52:36+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/dave-bautista-god-of-war-kratos-recast",
+      "title": "Guardians of the Galaxy's Dave Bautista could take over Kratos role in God of War live-action show, report claims",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T11:38:50+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/xbox-fanfest-world-tour",
+      "title": "Xbox's FanFest world tour is still going ahead, for some reason, even after Microsoft fired the guy who created it",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T09:39:50+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/xbox-360-games-playable-on-pc-microsoft-plan-leaked",
+      "title": "Microsoft is working on making Xbox 360 games playable on PC, leaked document reveals",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T09:23:47+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/stellar-blade-blood-rain-ai-response-ceo",
+      "title": "Stellar Blade: Blood Rain's AI music video should be viewed with \"understanding in mind\", says studio boss",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T08:47:17+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/playstation-xbox-top-20-most-played-games",
+      "title": "PlayStation and Xbox's most played games are, once again, exactly what you expect them to be",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T08:40:04+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/beast-of-reincarnation-review",
+      "title": "Beast of Reincarnation review",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-04",
+      "date_sort": "2026-08-04T00:00:00+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/indie-game-bundle-laid-off-developers-support-fund-100000",
+      "title": "Indie game bundle saving buyers over $1,000 in support of laid off developers has raised over $100,000 in three days",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T16:01:39+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/big-walk-review",
+      "title": "Big Walk review",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T13:00:00+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/kingdom-hearts-collection-ai-accusations-response",
+      "title": "Square Enix responds to Kingdom Hearts Collection AI controversy two months after players called it out",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T12:05:00+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/marvel-tokon-fighting-souls-early-popularity-tournaments",
+      "title": "Marvel Tokon: Fighting Souls shows early signs of popularity, soaring up tournament entry leaderboards",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T12:03:33+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/samsung-memory-shortage-2027-2028-q2-earnings",
+      "title": "Memory chip maker Samsung says the component shortage will continue to get worse in 2027, while earning a pretty penny from it",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T11:33:01+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/amd-price-rise-gpu-memory",
+      "title": "Yet another price rise: AMD will reportedly raise its graphics card and memory prices alongside Nvidia",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T09:36:39+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/dragons-dogma-2-dark-arisen-hard-mode",
+      "title": "Dragon's Dogma 2: Dark Arisen director casually announces a Hard Mode is in the works",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T08:59:11+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/palworld-online-revealed-mobile-mmorpg",
+      "title": "Palworld Online is a new MMORPG coming to iOS and Android later this year",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-03",
+      "date_sort": "2026-08-03T08:58:10+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/final-fantasy-7-revelation-remake-rebirth-sales",
+      "title": "As hype builds for Final Fantasy 7 Revelation, Remake and Rebirth continue to sell well",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-02",
+      "date_sort": "2026-08-02T20:43:09+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/control-resonant-30-50-hours-long",
+      "title": "Control Resonant's story will take around 30 hours, Remedy says, with completionists looking at 50-hour runs",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-02",
+      "date_sort": "2026-08-02T20:03:59+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/story-of-seasons-mobile-cancelled",
+      "title": "Story of Seasons mobile game cancelled as Marvelous cuts six-year Tencent partnership",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-02",
+      "date_sort": "2026-08-02T12:36:57+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/silent-hill-townfall-crtv",
+      "title": "Silent Hill: Townfall's dev team wrecked old TVs with magnets to make its in-game gadget feel real",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-02",
+      "date_sort": "2026-08-02T11:50:59+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/xbox-console-price-rise-uk-europe",
+      "title": "Xbox UK and Europe console price hikes revealed - and it's even worse than we expected",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-02",
+      "date_sort": "2026-08-02T10:54:44+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/what-weve-been-playing-dev-team-moved-to-hawaii",
+      "title": "What we've been playing - \"The dev team all moved to Hawaii to make this one, and you can tell\"",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-01",
+      "date_sort": "2026-08-01T07:00:00+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/guild-wars-3-lead-composer-star-wars-metal-gear-halo",
+      "title": "Star Wars, Metal Gear, and Halo composer Kazuma Jinnouchi confirmed as lead composer for Guild Wars 3",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-31",
+      "date_sort": "2026-07-31T15:42:38+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/ea-sports-fc-26-10-million-daily-active-users-claim",
+      "title": "EA Sports FC 26 may have almost 10 million daily active users, a far larger player count than public data may have you believe",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-31",
+      "date_sort": "2026-07-31T14:45:01+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/surprise-after-getting-over-500000-downloads-on-steam-theres-a-mortal-shell-2-beta-live-right-now-on-playstation-5-and-xbox-series-xs",
+      "title": "Surprise! After getting over 500,000 downloads on Steam, there's a Mortal Shell 2 beta live right now on PlayStation 5 and Xbox Series X/S",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-31",
+      "date_sort": "2026-07-31T14:07:10+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/the-elder-scrolls-online-developer-posts-extensive-roadmap-and-reiterates-that-the-game-is-here-to-stay-in-spite-of-sweeping-xbox-layoffs",
+      "title": "The Elder Scrolls Online developer posts extensive roadmap and reiterates that the game is \"here to stay\", in spite of sweeping Xbox layoffs",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-31",
+      "date_sort": "2026-07-31T13:47:25+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/total-war-warhammer-40000-dawn-of-war-4-lasgun-colour-yellow-red",
+      "title": "As Total War: Warhammer 40,000 and Dawn of War 4 show off more gameplay, 40K fans have become locked in a fierce debate: are the lasgun lasers the wrong colour?",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-31",
+      "date_sort": "2026-07-31T13:03:04+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/zelda-ocarina-of-time-remake-switch-2-amiibo-november",
+      "title": "Could Switch 2's The Legend of Zelda: Ocarina of Time remake be squaring up for a GTA 6 head-to-head? Newly sighted amiibo suggest a potential November release",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-31",
+      "date_sort": "2026-07-31T12:42:19+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/sony-ram-crisis-memory-ps5-sales-2027",
+      "title": "As the memory crisis worsens, PlayStation promises it has secured enough RAM to meet its PS5 sales (until early 2027, at least)",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-31",
+      "date_sort": "2026-07-31T11:06:04+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/stellar-blade-2-generative-ai-music-video",
+      "title": "Shift-Up promotes Stellar Blade 2 with AI-generated KPop music video featuring the game's main character",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-31",
+      "date_sort": "2026-07-31T10:59:42+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/sony-physical-media-decision-final",
+      "title": "Sony vows to press on with discless plans, saying \"digitalization is progressing\" across all media despite heavy protest from players",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-31",
+      "date_sort": "2026-07-31T09:35:24+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/ea-private-aquisition-expected-to-go-ahead",
+      "title": "The $55bn private acquisition of Electronic Arts is expected to go ahead",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-31",
+      "date_sort": "2026-07-31T09:00:55+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/path-of-exile-2-shaders-device-remove-fixed-champagne",
+      "title": "Path of Exile 2 finally has a fix for two of its longest-lasting, and most frustrating, technical problems",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-30",
+      "date_sort": "2026-07-30T14:48:53+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/halo-campaign-evolved-split-screen-pc-mod",
+      "title": "Halo: Campaign Evolved doesn't have split-screen on PC, but this mod fixes that, if you're willing to look past some quirks",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-30",
+      "date_sort": "2026-07-30T14:20:47+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/gears-of-war-e-day-horde-siege-impressions",
+      "title": "Gears of War: E-Day's new Horde may be the game's most interesting mode, but it left me with more questions than answers",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-30",
+      "date_sort": "2026-07-30T13:20:21+00:00"
+    },
+    {
+      "link": "https://www.eurogamer.net/halo-campaign-evolveds-death-barriers-and-ungenerous-out-of-bounds-restrictions-are-making-the-42-skull-grind-a-real-bore",
+      "title": "Halo: Campaign Evolved's 'death barriers' and ungenerous out-of-bounds restrictions are making the 42 skull grind a real bore",
+      "source": "Eurogamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-07-30",
+      "date_sort": "2026-07-30T12:14:42+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/puzzle/big-walk-has-sold-1-million-copies-making-it-a-bigger-hit-than-untitled-goose-game/",
+      "title": "Big Walk has sold 1 million copies, making it a bigger hit than Untitled Goose Game",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T04:14:59+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/action/hopefully-as-many-people-as-possible-get-to-play-it-before-nintendo-flips-out-fans-spent-3-years-secretly-crafting-a-full-metroid-prime-2d-demake-and-it-rocks/",
+      "title": "Fans spent 3 years secretly crafting a full Metroid Prime 2D demake, and it rocks",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-11",
+      "date_sort": "2026-08-11T02:12:35+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/gaming-industry/halloween-the-game-is-banned-in-australia-because-incentivized-drug-use-is-bad-but-incentivized-ultra-violence-isnt/",
+      "title": "Halloween: The Game is banned in Australia because incentivized drug use is bad but incentivized ultra-violence isn't",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T23:52:13+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/sim/the-vibey-offroading-game-with-more-than-a-million-steam-wishlists-has-a-release-date/",
+      "title": "The vibey offroading game with more than a million Steam wishlists has a release date",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T22:33:09+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/gaming-industry/id-software-dev-says-mass-layoffs-like-microsofts-are-weakening-the-games-industry-because-developers-dont-have-the-incentive-to-care-anymore/",
+      "title": "id Software dev says mass layoffs like Microsoft's are weakening the games industry, because developers 'don't have the incentive to care anymore'",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T22:00:43+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/movies-tv/50-cent-is-producing-a-payday-project-for-the-screen/",
+      "title": "50 Cent is producing a Payday project for 'the screen'",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T21:11:44+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/gaming-industry/grand-theft-auto-5-averages-more-copies-sold-per-year-than-most-megahits-manage-in-their-entire-lifetime-with-a-total-of-230-million-since-2013/",
+      "title": "Grand Theft Auto 5 averages more copies sold per year than most megahits manage in their entire lifetime, with a total of 230 million since 2013",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T20:31:05+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/fps/battlefield-6-player-claims-to-have-received-steam-refund-after-470-hours-due-to-surprise-mode-removal/",
+      "title": "Battlefield 6 player claims to have received Steam refund after 470 hours due to surprise mode removal",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T20:16:13+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/thank-you-so-much-for-the-best-weekend-ever-the-id-software-gang-got-together-at-quakecon-and-it-sure-looks-like-everyone-had-a-great-time/",
+      "title": "'Thank you so much for the best weekend ever': The id Software gang got together at QuakeCon, and it sure looks like everyone had a great time",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T20:09:49+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/fps/overwatchs-old-battle-passes-are-finally-coming-back-permanently-starting-next-month-but-some-of-the-rewards-will-be-left-out/",
+      "title": "Overwatch's old battle passes are finally coming back permanently starting next month, but some of the rewards will be left out",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T19:14:26+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/survival-crafting/there-was-originally-supposed-to-be-a-much-bigger-reveal-of-light-no-fire-heres-why-sean-murray-changed-his-mind/",
+      "title": "There was originally supposed to be a 'much bigger' reveal of Light No Fire: here's why Sean Murray changed his mind",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T18:28:26+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/gaming-industry/steam-user-data-may-have-been-compromised-by-a-cyberattack-targeting-valves-european-shipping-partner/",
+      "title": "Steam user data 'may have been compromised' by a cyberattack targeting Valve's European shipping partner",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T17:45:04+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/fps/payday-has-come-to-fortnite-because-todays-cool-gamers-are-discovering-legendary-ips-in-entirely-new-ways/",
+      "title": "Payday has come to Fortnite, because today's cool gamers are 'discovering legendary IPs in entirely new ways'",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T17:26:09+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-upgrade-cargo-elevator-antennas/",
+      "title": "How to upgrade the Cargo Elevator antennas in Arc Raiders",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T16:54:56+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/rpg/persona-big-boss-says-i-think-we-have-to-do-remakes-of-the-series-most-neglected-games/",
+      "title": "Persona big boss says 'I think we have to do' remakes of the series' most-neglected games",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T16:49:03+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/hardware/gaming-pcs/the-steam-machine-design-makes-for-a-frightfully-good-tissue-box-and-now-you-can-3d-print-your-own/",
+      "title": "The Steam Machine design makes for a frightfully good tissue box, and now you can 3D print your own",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T16:16:15+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/action/1666-amsterdam-has-the-makings-of-something-brilliant-but-i-came-away-from-its-preview-with-a-bad-feeling-as-its-early-access-release-creeps-too-close-for-comfort/",
+      "title": "1666: Amsterdam has the makings of something brilliant but I came away from its preview with a bad feeling as its early access release creeps too close for comfort",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T16:08:34+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/software/ai/keychron-is-experimenting-with-a-mic-equipped-mini-keeb-that-lets-you-chat-to-your-ai-agent-while-it-vibe-codes-and-i-have-my-head-in-my-hands/",
+      "title": "Keychron is experimenting with a mic-equipped mini keeb that lets you chat to your AI agent while it vibe codes, and I have my head in my hands",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T16:05:36+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/hardware/gaming-pcs/the-worlds-first-water-cooled-steam-machine-is-a-frankensteins-monster-of-neon-pink-tubing-and-external-hardware/",
+      "title": "The 'world's first' water-cooled Steam Machine is a Frankenstein's monster of neon pink tubing and external hardware",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T15:07:58+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/rpg/sovereign-tower-review/",
+      "title": "Sovereign Tower review",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T15:07:56+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/mmo/square-enixs-88-percent-profit-bump-financial-report-gives-me-hope-for-ff14-suggesting-the-mmos-finally-not-having-to-carry-the-company-for-once/",
+      "title": "Square Enix's 88% profit-bump financial report gives me hope for FF14, suggesting the MMO's finally not having to carry the company for once",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T14:39:29+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/hardware/memory/corsair-isnt-rolling-in-money-from-its-mega-expensive-ram-kits-and-its-all-thanks-to-higher-component-costs-and-lower-demand/",
+      "title": "Corsair isn't rolling in money from its mega-expensive RAM kits—and it's all thanks to higher component costs and lower demand",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T13:43:40+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/action/sean-murray-still-loves-playing-the-2016-version-of-no-mans-sky-its-a-little-bit-weirder-but-its-got-its-charm/",
+      "title": "Sean Murray still loves playing the 2016 version of No Man's Sky: 'It's a little bit weirder, but it's got its charm'",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T13:00:00+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/survival-crafting/light-no-fire-will-absolutely-be-like-no-mans-sky-with-new-features-coming-post-release-sean-murray-says-hed-like-to-still-be-working-on-it-10-years-after-launch/",
+      "title": "Light No Fire will 'absolutely' be like No Man's Sky, with new features coming post-release: Sean Murray says he'd like to still be working on it '10 years after launch'",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T13:00:00+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/gaming-industry/dev-at-id-software-says-microsoft-burned-a-lot-of-bridges-in-the-industry-they-fundamentally-dont-understand-art-they-dont-understand-games/",
+      "title": "Dev at id Software says Microsoft 'burned a lot of bridges' in the industry: 'They fundamentally don't understand art, they don't understand games'",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T11:23:13+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-hits-the-ozempic-comes-back-40-gb-lighter/",
+      "title": "Marvel Rivals hits the Ozempic, comes back 40 GB lighter",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T11:21:32+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-has-added-initial-steamos-gamepad-support-for-several-new-gaming-handhelds-including-the-msi-claw-8-ex-ai/",
+      "title": "Valve has added 'initial' SteamOS gamepad support for several new gaming handhelds, including the MSI Claw 8 EX AI+",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T11:05:21+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/gaming-industry/australians-must-now-prove-their-age-to-buy-r18-games-on-the-xbox-store/",
+      "title": "Australians must now prove their age to buy R18+ games on the Xbox store",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T03:52:45+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-games-about-sorting-1000s-of-mundane-objects-onto-shelves-is-the-new-craze-sweeping-pc-gaming/",
+      "title": "Steam Week in Review: Games about sorting 1000s of mundane objects onto shelves are the new craze sweeping PC gaming",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T01:37:33+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/third-person-shooter/free-to-play-division-game-launches-on-steam-to-mixed-reviews-calling-it-slop-disrespects-actual-slop/",
+      "title": "Free-to-play Division game launches on Steam to mixed reviews: 'Calling it slop disrespects actual slop'",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-10",
+      "date_sort": "2026-08-10T01:03:33+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/rpg/the-designer-of-diamond-city-little-lamplight-and-starfields-neon-thinks-bethesdas-galaxy-was-just-too-big-i-would-have-done-a-handful-of-planets-with-bespoke-layouts/",
+      "title": "The designer of Diamond City, Little Lamplight, and Starfield's Neon thinks Bethesda's galaxy was just too big: 'I would have done a handful of planets with bespoke layouts'",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T21:07:49+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/action/lies-of-p-studio-reveals-name-change-and-hypes-up-sequel-my-goal-has-been-to-create-the-worlds-greatest-action-game/",
+      "title": "Lies of P studio reveals name change and hypes up sequel: 'My goal has been to create the world's greatest action game.'",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T19:33:17+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/rpg/deltarunes-the-third-sanctuary-is-an-affront-to-time-signatures-and-also-one-of-my-favourite-songs-in-a-videogame-ever/",
+      "title": "Deltarune's 'The Third Sanctuary' is an affront to time signatures, and also one of my favourite songs in a videogame ever",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T17:00:00+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/movies-tv/the-last-season-of-netflixs-witcher-show-has-reportedly-been-delayed/",
+      "title": "The last season of Netflix's Witcher show has reportedly been delayed",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T16:27:27+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/gaming-industry/blizzard-is-now-reportedly-microsofts-top-studio-according-to-leaked-email/",
+      "title": "Blizzard is now reportedly Microsoft's top studio, according to leaked email",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T16:22:58+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/fps/hit-markers-are-an-fps-crutch/",
+      "title": "Hit markers are an FPS crutch",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T16:00:00+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/life-sim/fields-of-mistrias-cast-has-me-head-over-heels-in-a-way-no-farm-sim-has-since-stardew-valley/",
+      "title": "Fields of Mistria's cast has me head over heels in a way no farm sim has since Stardew Valley",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T16:00:00+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/gaming-industry/i-am-a-big-roguelike-guy-but-also-a-fan-of-minimalism-and-elegance-sam-barlow-creator-of-her-story-guides-us-through-the-games-in-his-steam-library/",
+      "title": "'I am a big roguelike guy, but also a fan of minimalism and elegance': Sam Barlow, creator of Her Story, guides us through the games in his Steam Library",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T15:00:00+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/fps/cancelled-quake-4-expansion-gets-surprise-github-release-after-former-xcom-2-developer-discovers-it-on-an-old-hard-drive-this-essentially-saved-my-life/",
+      "title": "Cancelled Quake 4 expansion gets surprise GitHub release after former XCOM 2 developer discovers it on an old hard drive: 'This essentially saved my life'",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T12:00:00+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/roblox-shares-plummet-by-70-percent-after-the-company-reports-persistent-decline-in-player-numbers-and-of-course-the-solution-involves-ai/",
+      "title": "Roblox shares plummet by 70% after the company reports persistent decline in player numbers, and of course the solution involves AI",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T11:00:00+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/action/laezel-actor-devora-wilde-didnt-know-she-was-in-space-marine-2-until-players-told-her/",
+      "title": "Lae'zel actor Devora Wilde didn't know she was in Space Marine 2 until players told her",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T06:23:27+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/strategy/warhammer-40-000-battlesector-has-a-roadmap-of-upcoming-additions-including-a-new-narrative-dlc/",
+      "title": "Warhammer 40,000: Battlesector has a roadmap of upcoming additions, including a new narrative DLC",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T03:49:46+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/the-gta-3d-trilogy-fanpatch-has-its-biggest-update-with-over-100-new-fixes-including-restored-dialogue-for-san-andreas/",
+      "title": "The GTA 3D trilogy fanpatch has its biggest update, with over 100 new fixes including restored dialogue for San Andreas",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-09",
+      "date_sort": "2026-08-09T02:34:05+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/fps/id-co-founder-john-carmack-revisits-doom-at-quakecon-still-a-great-game-after-all-these-years/",
+      "title": "id co-founder John Carmack revisits Doom at QuakeCon: 'Still a great game after all these years!'",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T19:08:08+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/fps/bethesda-40th-anniversary-sale-knocks-50-percent-off-doom-the-dark-ages-revelations-just-a-month-after-launch/",
+      "title": "Bethesda 40th anniversary sale knocks 50% off Doom: The Dark Ages - Revelations just a month after launch",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T18:30:55+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/action/the-indie-parkour-game-from-one-of-the-french-brothers-behind-2024s-best-fps-is-coming-out-in-just-two-weeks/",
+      "title": "The indie parkour game from one of the French brothers behind 2024's best FPS is coming out in just two weeks",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T17:25:52+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-developers-reflect-on-midnights-first-season-a-world-without-addons-task-overload-and-prey/",
+      "title": "WoW developers reflect on Midnight's first season—a world without AddOns, task overload, and Prey",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T17:00:00+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/strategy/forget-quake-worms-the-directors-cut-just-got-a-free-expansion-for-the-series-30th-anniversary/",
+      "title": "Forget Quake, Worms: The Director's Cut just got a free expansion for the series' 30th anniversary",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T16:00:29+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/rpg/stop-waiting-for-the-game-of-thrones-crpg-of-your-dreams-and-settle-for-the-pleasant-eurojank-compromise-instead/",
+      "title": "Stop waiting for the Game of Thrones CRPG of your dreams and settle for the pleasant eurojank compromise instead",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T16:00:00+00:00"
+    },
+    {
+      "link": "https://www.pcgamer.com/games/survival-crafting/blocky-zombie-survival-sim-unturned-releases-its-source-code-so-players-can-build-a-lasting-legacy-for-the-game-regardless-of-the-changes-we-make/",
+      "title": "Blocky zombie survival sim Unturned releases its source code so players can build a 'lasting legacy' for the game 'regardless of the changes we make'",
+      "source": "PC Gamer",
+      "region": "west",
+      "category": "review",
+      "date": "2026-08-08",
+      "date_sort": "2026-08-08T13:00:00+00:00"
+    }
+  ]
+}
