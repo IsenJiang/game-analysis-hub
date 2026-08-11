@@ -9,21 +9,21 @@
   <!-- 1. Docsify 基础主题 -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   
-  <!-- 2. Notion 极简风 Phosphor 线条图标库 -->
-  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/regular/style.css" />
+  <!-- 2. Notion 极简风 Phosphor 线条图标库 (CDN) -->
+  <link rel="stylesheet" type="text/css" href="//unpkg.com/@phosphor-icons/web@2.1.1/src/regular/style.css" />
 
-  <!-- 3. 高级极简与 Notion 风格 UI 自定义样式表 -->
+  <!-- 3. 高级极简 UI 样式 -->
   <style>
     :root {
       --theme-color: #4f46e5; /* 主色调：靛蓝 */
     }
 
-    /* 全局彻底消除所有链接的下划线 */
+    /* 彻底消除全站所有下划线 */
     a, a:hover, a:focus, a:active {
       text-decoration: none !important;
     }
 
-    /* 全局字号与字体系统 (14px 紧凑画风) */
+    /* 全局 14px 紧凑字号 */
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
       font-size: 14px;
@@ -31,15 +31,12 @@
       line-height: 1.6;
     }
 
-    /* --------------------------------------------------
-     * 侧边栏与标题调整
-     * -------------------------------------------------- */
     .sidebar {
       border-right: 1px solid #f1f5f9;
       background-color: #fafafa;
     }
 
-    /* 侧边栏顶部标题“游戏分析观察站”字号缩小至 15px */
+    /* 缩小标题字号至 15px */
     .sidebar h1,
     .sidebar .app-name,
     .sidebar .app-name-link {
@@ -51,20 +48,17 @@
       text-align: left !important;
     }
 
-    /* Notion 风格图标微调 */
-    .sidebar ul li i,
+    /* Notion 风格线条图标样式微调 */
     .sidebar ul li span.ph {
-      font-size: 15px !important;
+      font-size: 16px !important;
       margin-right: 6px !important;
       vertical-align: -2px !important;
-      color: #64748b;
+      color: #64748b !important;
       transition: color 0.15s ease;
       display: inline-block;
     }
 
-    /* --------------------------------------------------
-     * 侧边栏菜单交互（圆角框包围，绝无横线）
-     * -------------------------------------------------- */
+    /* 侧边栏菜单项：默认状态 */
     .sidebar ul li a {
       font-size: 13px !important;
       color: #64748b !important;
@@ -73,21 +67,20 @@
       margin: 2px 0 !important;
       display: block;
       transition: all 0.15s ease-in-out;
-      border: 1px solid transparent !important; /* 预留边框防抖动 */
+      border: 1px solid transparent !important;
     }
 
-    /* 鼠标悬停 (Hover)：浅灰圆角框 */
+    /* 鼠标悬停（Hover）：浅灰圆角框包围 */
     .sidebar ul li a:hover {
       color: #0f172a !important;
       background-color: #f1f5f9 !important;
       border-color: #e2e8f0 !important;
     }
-    .sidebar ul li a:hover i,
     .sidebar ul li a:hover span.ph {
       color: #0f172a !important;
     }
 
-    /* 选中/激活 (Active)：浅蓝紫高亮圆角框框住 */
+    /* 选中/激活（Active）：浅蓝紫圆角框包围，绝无下划线 */
     .sidebar ul li.active > a {
       color: var(--theme-color) !important;
       font-weight: 600 !important;
@@ -95,12 +88,11 @@
       border-color: #c7d2fe !important;
       box-shadow: none !important;
     }
-    .sidebar ul li.active > a i,
     .sidebar ul li.active > a span.ph {
       color: var(--theme-color) !important;
     }
 
-    /* 抹除 Docsify 默认生成的任何下划线、竖条或加号线条 */
+    /* 抹除 Docsify 默认生成的所有竖线、加号或下划线伪元素 */
     .sidebar ul li.active > a::after,
     .sidebar ul li a::after,
     .sidebar ul li.active > a::before,
@@ -110,7 +102,7 @@
       border: none !important;
     }
 
-    /* 搜索框圆角设计 */
+    /* 搜索框圆角 */
     .sidebar .search input {
       border-radius: 8px !important;
       border: 1px solid #e2e8f0 !important;
@@ -118,65 +110,17 @@
       font-size: 13px !important;
       background-color: #ffffff !important;
     }
-    .sidebar .search input:focus {
-      border-color: var(--theme-color) !important;
-      box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.1) !important;
-    }
 
-    /* --------------------------------------------------
-     * Markdown 正文与排版组件
-     * -------------------------------------------------- */
+    /* 正文排版 */
     .markdown-section h1 { font-size: 1.5rem; font-weight: 700; color: #0f172a; margin-bottom: 1.2rem; }
     .markdown-section h2 { font-size: 1.2rem; font-weight: 600; color: #1e293b; border-bottom: 1px solid #f1f5f9; padding-bottom: 6px; margin-top: 1.8rem; }
     .markdown-section h3 { font-size: 1.02rem; font-weight: 600; color: #334155; margin-top: 1.2rem; }
 
-    /* 正文链接高亮块 */
-    .markdown-section a {
-      color: var(--theme-color);
-      padding: 2px 6px;
-      border-radius: 4px;
-      transition: all 0.15s ease;
-    }
-    .markdown-section a:hover {
-      background-color: #eef2ff;
-    }
-
-    /* 代码块圆角 */
-    .markdown-section pre {
-      border-radius: 10px !important;
-      background-color: #0f172a !important;
-      padding: 12px 16px !important;
-    }
-    .markdown-section code {
-      font-size: 13px !important;
-    }
-
-    /* 引用块圆角 */
-    .markdown-section blockquote {
-      border-left: 3px solid var(--theme-color);
-      background-color: #f8fafc;
-      border-radius: 0 8px 8px 0;
-      padding: 10px 14px;
-      color: #475569;
-    }
-
-    /* 表格圆角 */
-    .markdown-section table {
-      border-collapse: separate;
-      border-spacing: 0;
-      border-radius: 10px;
-      overflow: hidden;
-      border: 1px solid #e2e8f0;
-      font-size: 13px;
-    }
+    .markdown-section pre { border-radius: 10px !important; background-color: #0f172a !important; padding: 12px 16px !important; }
+    .markdown-section table { border-collapse: separate; border-spacing: 0; border-radius: 10px; overflow: hidden; border: 1px solid #e2e8f0; font-size: 13px; }
     .markdown-section th { background-color: #f1f5f9; padding: 8px 12px; }
     .markdown-section td { border-bottom: 1px solid #f1f5f9; padding: 8px 12px; }
-
-    /* 图片圆角 */
-    .markdown-section img {
-      border-radius: 10px;
-      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
-    }
+    .markdown-section img { border-radius: 10px; box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06); }
   </style>
 </head>
 <body>
@@ -187,7 +131,6 @@
       repo: '',
       loadSidebar: true,
       subMaxLevel: 3,
-      executeScript: true,
       search: {
         placeholder: '搜索分析报告...',
         noData: '未找到相关内容'
@@ -199,7 +142,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   
-  <!-- Mermaid 流程图原生支持 -->
+  <!-- Mermaid 流程图支持 -->
   <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-mermaid@2/dist/docsify-mermaid.js"></script>
   <script>mermaid.initialize({ startOnLoad: true });</script>
